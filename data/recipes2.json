@@ -1,0 +1,143 @@
+[
+    {
+      "title": "Tacos de Carnitas",
+      "ingredients": ["Carne de cerdo", "Tortillas de maíz", "Cebolla", "Cilantro", "Lima"],
+      "url": "https://www.recetasderechupete.com/tacos-de-carnitas/26878/",
+      "type": "Plato Principal",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Ensalada de Quinoa",
+      "ingredients": ["Quinoa", "Tomate", "Pepino", "Cebolla morada", "Aceite de oliva"],
+      "url": "https://www.recetasderechupete.com/ensalada-de-quinoa/30325/",
+      "type": "Ensalada",
+      "dietary_restrictions": ["Vegetariano"]
+    },
+    {
+      "title": "Gazpacho Andaluz",
+      "ingredients": ["Tomate", "Pimiento", "Pepino", "Ajo", "Aceite de oliva"],
+      "url": "https://www.recetasderechupete.com/gazpacho-andaluz/29650/",
+      "type": "Sopa",
+      "dietary_restrictions": ["Vegetariano", "Sin Gluten"]
+    },
+    {
+      "title": "Paella Valenciana",
+      "ingredients": ["Arroz", "Pollo", "Conejo", "Judías verdes", "Tomate"],
+      "url": "https://www.recetasderechupete.com/paella-valenciana/26921/",
+      "type": "Plato Principal",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Tarta de Santiago",
+      "ingredients": ["Almendras", "Azúcar", "Huevos", "Limón", "Canela"],
+      "url": "https://www.recetasderechupete.com/tarta-de-santiago/26173/",
+      "type": "Postre",
+      "dietary_restrictions": ["Sin Gluten"]
+    },
+    {
+      "title": "Ceviche de Pescado",
+      "ingredients": ["Pescado blanco", "Lima", "Cebolla morada", "Cilantro", "Ají"],
+      "url": "https://www.recetasderechupete.com/ceviche-de-pescado/29095/",
+      "type": "Entrante",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Croquetas de Jamón",
+      "ingredients": ["Jamón", "Leche", "Harina", "Huevo", "Pan rallado"],
+      "url": "https://www.recetasderechupete.com/croquetas-de-jamon/27243/",
+      "type": "Aperitivo",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Enchiladas Verdes",
+      "ingredients": ["Tortillas de maíz", "Pollo", "Tomatillo", "Cilantro", "Queso"],
+      "url": "https://www.recetasderechupete.com/enchiladas-verdes/27891/",
+      "type": "Plato Principal",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Flan de Huevo",
+      "ingredients": ["Huevos", "Leche", "Azúcar", "Vainilla", "Caramelo"],
+      "url": "https://www.recetasderechupete.com/flan-de-huevo/26521/",
+      "type": "Postre",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Tortilla de Patatas",
+      "ingredients": ["Patatas", "Huevos", "Cebolla", "Aceite de oliva", "Sal"],
+      "url": "https://www.recetasderechupete.com/tortilla-de-patatas/25841/",
+      "type": "Plato Principal",
+      "dietary_restrictions": ["Vegetariano"]
+    },
+    {
+      "title": "Sopa de Lentejas",
+      "ingredients": ["Lentejas", "Zanahoria", "Apio", "Cebolla", "Ajo"],
+      "url": "https://www.recetasderechupete.com/sopa-de-lentejas/27773/",
+      "type": "Sopa",
+      "dietary_restrictions": ["Vegetariano"]
+    },
+    {
+      "title": "Churros con Chocolate",
+      "ingredients": ["Harina", "Agua", "Aceite", "Azúcar", "Chocolate"],
+      "url": "https://www.recetasderechupete.com/churros-con-chocolate/26034/",
+      "type": "Postre",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Patatas Bravas",
+      "ingredients": ["Patatas", "Aceite de oliva", "Ajo", "Tomate", "Pimentón"],
+      "url": "https://www.recetasderechupete.com/patatas-bravas/25387/",
+      "type": "Aperitivo",
+      "dietary_restrictions": ["Vegetariano"]
+    },
+    {
+      "title": "Empanadas Argentinas",
+      "ingredients": ["Carne picada", "Cebolla", "Huevo duro", "Aceitunas", "Pasas"],
+      "url": "https://www.recetasderechupete.com/empanadas-argentinas/26654/",
+      "type": "Plato Principal",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Hummus Clásico",
+      "ingredients": ["Garbanzos", "Tahini", "Ajo", "Limón", "Aceite de oliva"],
+      "url": "https://www.recetasderechupete.com/hummus-clasico/25761/",
+      "type": "Aperitivo",
+      "dietary_restrictions": ["Vegetariano", "Sin Gluten"]
+    },
+    {
+      "title": "Pollo al Curry",
+      "ingredients": ["Pollo", "Cebolla", "Ajo", "Curry", "Leche de coco"],
+      "url": "https://www.recetasderechupete.com/pollo-al-curry/27492/",
+      "type": "Plato Principal",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Arroz con Leche",
+      "ingredients": ["Arroz", "Leche", "Azúcar", "Canela", "Limón"],
+      "url": "https://www.recetasderechupete.com/arroz-con-leche/25963/",
+      "type": "Postre",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Pimientos Rellenos",
+      "ingredients": ["Pimientos", "Arroz", "Carne picada", "Tomate", "Cebolla"],
+      "url": "https://www.recetasderechupete.com/pimientos-rellenos/26319/",
+      "type": "Plato Principal",
+      "dietary_restrictions": []
+    },
+    {
+      "title": "Galletas de Avena",
+      "ingredients": ["Avena", "Harina", "Azúcar", "Mantequilla", "Huevo"],
+      "url": "https://www.recetasderechupete.com/galletas-de-avena/25546/",
+      "type": "Postre",
+      "dietary_restrictions": ["Vegetariano"]
+    },
+    {
+      "title": "Crema de Calabaza",
+      "ingredients": ["Calabaza", "Cebolla", "Patata", "Zanahoria", "Caldo de verduras"],
+      "url": "https://www.recetasderechupete.com/crema-de-calabaza/24978/",
+      "type": "Sopa",
+      "dietary_restrictions": ["Vegetariano", "Sin Gluten"]
+    }
+  ]
+  

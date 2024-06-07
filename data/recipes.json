@@ -1,143 +1,101 @@
 [
     {
-      "title": "Tacos de Carnitas",
-      "ingredients": ["Carne de cerdo", "Tortillas de maíz", "Cebolla", "Cilantro", "Lima"],
-      "url": "https://www.recetasderechupete.com/tacos-de-carnitas/26878/",
-      "type": "Plato Principal",
-      "dietary_restrictions": []
+      "title": "Bizcocho de yogur y naranja",
+      "ingredients": ["Yogur", "Harina sin gluten", "Naranjas", "Azúcar", "Huevos"],
+      "url": "https://ybarraentucocina.com/recetas/bizcocho-de-yogur-y-naranja",
+      "type": "Desayuno",
+      "dietary_restrictions": ["Celiaco"]
     },
     {
-      "title": "Ensalada de Quinoa",
-      "ingredients": ["Quinoa", "Tomate", "Pepino", "Cebolla morada", "Aceite de oliva"],
-      "url": "https://www.recetasderechupete.com/ensalada-de-quinoa/30325/",
-      "type": "Ensalada",
+      "title": "Tosta de aguacate, mozzarella y pesto",
+      "ingredients": ["Aguacate", "Mozzarella", "Pesto", "Pan sin gluten"],
+      "url": "https://ybarraentucocina.com/recetas/tosta-de-aguacate-mozzarella-y-pesto",
+      "type": "Desayuno",
+      "dietary_restrictions": ["Celiaco", "Vegetariano"]
+    },
+    {
+      "title": "Smoothie de frutos rojos y AOVE",
+      "ingredients": ["Frutos rojos", "Miel", "Aceite de oliva", "Leche sin lactosa"],
+      "url": "https://ybarraentucocina.com/recetas/smoothie-frutos-rojos-aove",
+      "type": "Desayuno",
+      "dietary_restrictions": ["Intolerante a la lactosa"]
+    },
+    {
+      "title": "Huevos rellenos de ensalada de pollo",
+      "ingredients": ["Huevos", "Pollo", "Mayonesa sin lactosa", "Cebolla"],
+      "url": "https://ybarraentucocina.com/recetas/huevos-rellenos-de-ensalada-de-pollo",
+      "type": "Almuerzo",
+      "dietary_restrictions": ["Intolerante a la lactosa"]
+    },
+    {
+      "title": "Merluza con salsa de langostinos",
+      "ingredients": ["Merluza", "Langostinos", "Ajo", "Perejil", "Aceite de oliva"],
+      "url": "https://ybarraentucocina.com/recetas/merluza-salsa-langostinos",
+      "type": "Almuerzo",
+      "dietary_restrictions": ["Celiaco"]
+    },
+    {
+      "title": "Hamburguesas de lentejas",
+      "ingredients": ["Lentejas", "Cebolla", "Ajo", "Pan rallado sin gluten"],
+      "url": "https://www.gourmet.cl/recetas/hamburguesas-de-lentejas",
+      "type": "Almuerzo",
+      "dietary_restrictions": ["Celiaco", "Vegetariano"]
+    },
+    {
+      "title": "Patatas a la marinera",
+      "ingredients": ["Patatas", "Ajo", "Perejil", "Aceite de oliva"],
+      "url": "https://ybarraentucocina.com/recetas/patatas-a-la-marinera",
+      "type": "Cena",
+      "dietary_restrictions": ["Intolerante a la lactosa", "Vegetariano"]
+    },
+    {
+      "title": "Pollo guisado a la salsa Barbacoa Ybarra",
+      "ingredients": ["Pollo", "Salsa barbacoa", "Cebolla", "Pimientos"],
+      "url": "https://ybarraentucocina.com/recetas/pollo-guisado-a-la-salsa-barbacoa-ybarra",
+      "type": "Cena",
+      "dietary_restrictions": ["Celiaco"]
+    },
+    {
+      "title": "Canelones de calabacín y verduras",
+      "ingredients": ["Calabacín", "Verduras", "Salsa ligera", "Queso rallado"],
+      "url": "https://ybarraentucocina.com/recetas/canelones-de-calabacin-y-verduras",
+      "type": "Cena",
       "dietary_restrictions": ["Vegetariano"]
     },
     {
-      "title": "Gazpacho Andaluz",
-      "ingredients": ["Tomate", "Pimiento", "Pepino", "Ajo", "Aceite de oliva"],
-      "url": "https://www.recetasderechupete.com/gazpacho-andaluz/29650/",
-      "type": "Sopa",
-      "dietary_restrictions": ["Vegetariano", "Sin Gluten"]
+      "title": "Bizcocho de canela y limón",
+      "ingredients": ["Harina sin gluten", "Canela", "Limón", "Azúcar"],
+      "url": "https://ybarraentucocina.com/recetas/bizcocho-de-canela-y-limon",
+      "type": "Merienda",
+      "dietary_restrictions": ["Celiaco"]
     },
     {
-      "title": "Paella Valenciana",
-      "ingredients": ["Arroz", "Pollo", "Conejo", "Judías verdes", "Tomate"],
-      "url": "https://www.recetasderechupete.com/paella-valenciana/26921/",
-      "type": "Plato Principal",
-      "dietary_restrictions": []
+      "title": "Buñuelos de espinacas",
+      "ingredients": ["Espinacas", "Queso rallado", "Harina sin gluten", "Aceite de oliva"],
+      "url": "https://ybarraentucocina.com/recetas/bunuelos-de-espinacas",
+      "type": "Snack",
+      "dietary_restrictions": ["Celiaco", "Vegetariano"]
     },
     {
-      "title": "Tarta de Santiago",
-      "ingredients": ["Almendras", "Azúcar", "Huevos", "Limón", "Canela"],
-      "url": "https://www.recetasderechupete.com/tarta-de-santiago/26173/",
-      "type": "Postre",
-      "dietary_restrictions": ["Sin Gluten"]
+        "title": "Patatas fritas gratinadas con Salsa Original para Carnes Gaucha",
+        "ingredients": ["Patatas", "Bacon", "Salsa Gaucha", "Queso rallado"],
+        "url": "https://ybarraentucocina.com/recetas/patatas-fritas-gratinadas-con-gaucha",
+        "type": "Entrante",
+        "dietary_restrictions": []
     },
     {
-      "title": "Ceviche de Pescado",
-      "ingredients": ["Pescado blanco", "Lima", "Cebolla morada", "Cilantro", "Ají"],
-      "url": "https://www.recetasderechupete.com/ceviche-de-pescado/29095/",
-      "type": "Entrante",
-      "dietary_restrictions": []
+      "title": "Pastel de salmón, pan de molde y Mayonesa Ybarra",
+      "ingredients": ["Salmón", "Pan de molde sin gluten", "Mayonesa", "Cebolla"],
+      "url": "https://ybarraentucocina.com/recetas/pastel-de-salmon-pan-de-molde-y-mayonesa-ybarra",
+      "type": "Snack",
+      "dietary_restrictions": ["Celiaco"]
     },
     {
-      "title": "Croquetas de Jamón",
-      "ingredients": ["Jamón", "Leche", "Harina", "Huevo", "Pan rallado"],
-      "url": "https://www.recetasderechupete.com/croquetas-de-jamon/27243/",
-      "type": "Aperitivo",
-      "dietary_restrictions": []
-    },
-    {
-      "title": "Enchiladas Verdes",
-      "ingredients": ["Tortillas de maíz", "Pollo", "Tomatillo", "Cilantro", "Queso"],
-      "url": "https://www.recetasderechupete.com/enchiladas-verdes/27891/",
-      "type": "Plato Principal",
-      "dietary_restrictions": []
-    },
-    {
-      "title": "Flan de Huevo",
-      "ingredients": ["Huevos", "Leche", "Azúcar", "Vainilla", "Caramelo"],
-      "url": "https://www.recetasderechupete.com/flan-de-huevo/26521/",
-      "type": "Postre",
-      "dietary_restrictions": []
-    },
-    {
-      "title": "Tortilla de Patatas",
-      "ingredients": ["Patatas", "Huevos", "Cebolla", "Aceite de oliva", "Sal"],
-      "url": "https://www.recetasderechupete.com/tortilla-de-patatas/25841/",
-      "type": "Plato Principal",
-      "dietary_restrictions": ["Vegetariano"]
-    },
-    {
-      "title": "Sopa de Lentejas",
-      "ingredients": ["Lentejas", "Zanahoria", "Apio", "Cebolla", "Ajo"],
-      "url": "https://www.recetasderechupete.com/sopa-de-lentejas/27773/",
-      "type": "Sopa",
-      "dietary_restrictions": ["Vegetariano"]
-    },
-    {
-      "title": "Churros con Chocolate",
-      "ingredients": ["Harina", "Agua", "Aceite", "Azúcar", "Chocolate"],
-      "url": "https://www.recetasderechupete.com/churros-con-chocolate/26034/",
-      "type": "Postre",
-      "dietary_restrictions": []
-    },
-    {
-      "title": "Patatas Bravas",
-      "ingredients": ["Patatas", "Aceite de oliva", "Ajo", "Tomate", "Pimentón"],
-      "url": "https://www.recetasderechupete.com/patatas-bravas/25387/",
-      "type": "Aperitivo",
-      "dietary_restrictions": ["Vegetariano"]
-    },
-    {
-      "title": "Empanadas Argentinas",
-      "ingredients": ["Carne picada", "Cebolla", "Huevo duro", "Aceitunas", "Pasas"],
-      "url": "https://www.recetasderechupete.com/empanadas-argentinas/26654/",
-      "type": "Plato Principal",
-      "dietary_restrictions": []
-    },
-    {
-      "title": "Hummus Clásico",
-      "ingredients": ["Garbanzos", "Tahini", "Ajo", "Limón", "Aceite de oliva"],
-      "url": "https://www.recetasderechupete.com/hummus-clasico/25761/",
-      "type": "Aperitivo",
-      "dietary_restrictions": ["Vegetariano", "Sin Gluten"]
-    },
-    {
-      "title": "Pollo al Curry",
-      "ingredients": ["Pollo", "Cebolla", "Ajo", "Curry", "Leche de coco"],
-      "url": "https://www.recetasderechupete.com/pollo-al-curry/27492/",
-      "type": "Plato Principal",
-      "dietary_restrictions": []
-    },
-    {
-      "title": "Arroz con Leche",
-      "ingredients": ["Arroz", "Leche", "Azúcar", "Canela", "Limón"],
-      "url": "https://www.recetasderechupete.com/arroz-con-leche/25963/",
-      "type": "Postre",
-      "dietary_restrictions": []
-    },
-    {
-      "title": "Pimientos Rellenos",
-      "ingredients": ["Pimientos", "Arroz", "Carne picada", "Tomate", "Cebolla"],
-      "url": "https://www.recetasderechupete.com/pimientos-rellenos/26319/",
-      "type": "Plato Principal",
-      "dietary_restrictions": []
-    },
-    {
-      "title": "Galletas de Avena",
-      "ingredients": ["Avena", "Harina", "Azúcar", "Mantequilla", "Huevo"],
-      "url": "https://www.recetasderechupete.com/galletas-de-avena/25546/",
-      "type": "Postre",
-      "dietary_restrictions": ["Vegetariano"]
-    },
-    {
-      "title": "Crema de Calabaza",
-      "ingredients": ["Calabaza", "Cebolla", "Patata", "Zanahoria", "Caldo de verduras"],
-      "url": "https://www.recetasderechupete.com/crema-de-calabaza/24978/",
-      "type": "Sopa",
-      "dietary_restrictions": ["Vegetariano", "Sin Gluten"]
+      "title": "Cocktail con espuma de mayonesa Ybarra",
+      "ingredients": ["Mayonesa", "Pulpo", "Ajo", "Perejil"],
+      "url": "https://ybarraentucocina.com/recetas/cocktail-espuma-mayonesa-ybarra",
+      "type": "Snack",
+      "dietary_restrictions": ["Intolerante a la lactosa"]
     }
   ]
   
