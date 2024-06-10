@@ -24,10 +24,12 @@ module.exports = (async () => {
       { name: 'ingredients', type: 'string[]' },
       { name: 'url', type: 'string' },
       { name: 'type', type: 'string', facet: true },
-      { name: 'dietary_restrictions', type: 'string[]', facet: true }
+      { name: 'dietary_restrictions', type: 'string[]', facet: true },
+      { name: 'preparation_time', type: 'string' },
+      { name: 'servings', type: 'string' },
+      { name: 'image_url', type: 'string' }
     ]
   };
-
   console.log('Populating index in Typesense');
 
   try {

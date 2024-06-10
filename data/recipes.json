@@ -4,98 +4,140 @@
       "ingredients": ["Yogur", "Harina sin gluten", "Naranjas", "Azúcar", "Huevos"],
       "url": "https://ybarraentucocina.com/recetas/bizcocho-de-yogur-y-naranja",
       "type": "Desayuno",
-      "dietary_restrictions": ["Celiaco"]
+      "dietary_restrictions": ["Celiaco"],
+      "preparation_time": "70 min",
+      "servings": "6 porciones",
+      "image_url": "https://ybarraentucocina.com/wp-content/uploads/2019/04/BIZCOCHO-YOGURdestacada.jpg"
     },
     {
       "title": "Tosta de aguacate, mozzarella y pesto",
       "ingredients": ["Aguacate", "Mozzarella", "Pesto", "Pan sin gluten"],
       "url": "https://ybarraentucocina.com/recetas/tosta-de-aguacate-mozzarella-y-pesto",
       "type": "Desayuno",
-      "dietary_restrictions": ["Celiaco", "Vegetariano"]
+      "dietary_restrictions": ["Celiaco", "Vegetariano"],
+      "preparation_time": "15 min",
+    "servings": "4 porciones",
+    "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-tosta-aguacate-aceite-oliva-virgen-extra-primera-cosecha.jpg"
     },
     {
       "title": "Smoothie de frutos rojos y AOVE",
       "ingredients": ["Frutos rojos", "Miel", "Aceite de oliva", "Leche sin lactosa"],
       "url": "https://ybarraentucocina.com/recetas/smoothie-frutos-rojos-aove",
       "type": "Desayuno",
-      "dietary_restrictions": ["Intolerante a la lactosa"]
+      "dietary_restrictions": ["Intolerante a la lactosa"],
+      "preparation_time": "10 min",
+    "servings": "2 porciones",
+    "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-smoothie-frutos-rojos-virgen-extra.jpg"
     },
     {
       "title": "Huevos rellenos de ensalada de pollo",
       "ingredients": ["Huevos", "Pollo", "Mayonesa sin lactosa", "Cebolla"],
       "url": "https://ybarraentucocina.com/recetas/huevos-rellenos-de-ensalada-de-pollo",
       "type": "Almuerzo",
-      "dietary_restrictions": ["Intolerante a la lactosa"]
+      "dietary_restrictions": ["Intolerante a la lactosa"],
+      "preparation_time": "30 min",
+      "servings": "4 porciones",
+      "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-huevos-rellenos-ensalada-pollo-mayonesa.jpg"
     },
     {
       "title": "Merluza con salsa de langostinos",
       "ingredients": ["Merluza", "Langostinos", "Ajo", "Perejil", "Aceite de oliva"],
       "url": "https://ybarraentucocina.com/recetas/merluza-salsa-langostinos",
       "type": "Almuerzo",
-      "dietary_restrictions": ["Celiaco"]
+      "dietary_restrictions": ["Celiaco"],
+      "preparation_time": "40 min",
+      "servings": "4 porciones",
+      "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-merluza-salsa-langostinos.jpg"
     },
     {
       "title": "Hamburguesas de lentejas",
       "ingredients": ["Lentejas", "Cebolla", "Ajo", "Pan rallado sin gluten"],
       "url": "https://www.gourmet.cl/recetas/hamburguesas-de-lentejas",
       "type": "Almuerzo",
-      "dietary_restrictions": ["Celiaco", "Vegetariano"]
+      "dietary_restrictions": ["Celiaco", "Vegetariano"],
+      "preparation_time": "60 min",
+      "servings": "6 porciones",
+      "image_url": "https://www.gourmet.cl/wp-content/uploads/2017/01/Hamburguesa-de-Lentejas-ajustada-web-570x458.jpg"
     },
     {
       "title": "Patatas a la marinera",
       "ingredients": ["Patatas", "Ajo", "Perejil", "Aceite de oliva"],
       "url": "https://ybarraentucocina.com/recetas/patatas-a-la-marinera",
       "type": "Cena",
-      "dietary_restrictions": ["Intolerante a la lactosa", "Vegetariano"]
+      "dietary_restrictions": ["Intolerante a la lactosa", "Vegetariano"],
+      "preparation_time": "45 min",
+      "servings": "4 porciones",
+      "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-guiso-patatas-marinera.jpg"
     },
     {
       "title": "Pollo guisado a la salsa Barbacoa Ybarra",
       "ingredients": ["Pollo", "Salsa barbacoa", "Cebolla", "Pimientos"],
       "url": "https://ybarraentucocina.com/recetas/pollo-guisado-a-la-salsa-barbacoa-ybarra",
       "type": "Cena",
-      "dietary_restrictions": ["Celiaco"]
+      "dietary_restrictions": ["Celiaco"],
+      "preparation_time": "60 min",
+      "servings": "4 porciones",
+      "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-pollo-barbacoa.jpg"
     },
     {
       "title": "Canelones de calabacín y verduras",
       "ingredients": ["Calabacín", "Verduras", "Salsa ligera", "Queso rallado"],
       "url": "https://ybarraentucocina.com/recetas/canelones-de-calabacin-y-verduras",
       "type": "Cena",
-      "dietary_restrictions": ["Vegetariano"]
+      "dietary_restrictions": ["Vegetariano"],
+      "preparation_time": "50 min",
+      "servings": "4 porciones",
+      "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-canelones-calabacin-verduras-salsa-ligera.jpg"
     },
     {
       "title": "Bizcocho de canela y limón",
       "ingredients": ["Harina sin gluten", "Canela", "Limón", "Azúcar"],
       "url": "https://ybarraentucocina.com/recetas/bizcocho-de-canela-y-limon",
       "type": "Merienda",
-      "dietary_restrictions": ["Celiaco"]
+      "dietary_restrictions": ["Celiaco"],
+      "preparation_time": "80 min",
+      "servings": "8 porciones",
+      "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-canela.jpg"
     },
     {
       "title": "Buñuelos de espinacas",
       "ingredients": ["Espinacas", "Queso rallado", "Harina sin gluten", "Aceite de oliva"],
       "url": "https://ybarraentucocina.com/recetas/bunuelos-de-espinacas",
       "type": "Snack",
-      "dietary_restrictions": ["Celiaco", "Vegetariano"]
+      "dietary_restrictions": ["Celiaco", "Vegetariano"],
+      "preparation_time": "30 min",
+      "servings": "4 porciones",
+      "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-aperitivo-bunuelo-espinacas.jpg"
     },
     {
         "title": "Patatas fritas gratinadas con Salsa Original para Carnes Gaucha",
         "ingredients": ["Patatas", "Bacon", "Salsa Gaucha", "Queso rallado"],
         "url": "https://ybarraentucocina.com/recetas/patatas-fritas-gratinadas-con-gaucha",
         "type": "Entrante",
-        "dietary_restrictions": []
+        "dietary_restrictions": [],
+        "preparation_time": "20 min",
+        "servings": "4 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-patatas-gratinadas-salsa-gaucha.jpg"
     },
     {
       "title": "Pastel de salmón, pan de molde y Mayonesa Ybarra",
       "ingredients": ["Salmón", "Pan de molde sin gluten", "Mayonesa", "Cebolla"],
       "url": "https://ybarraentucocina.com/recetas/pastel-de-salmon-pan-de-molde-y-mayonesa-ybarra",
       "type": "Snack",
-      "dietary_restrictions": ["Celiaco"]
+      "dietary_restrictions": ["Celiaco"],
+      "preparation_time": "45 min",
+      "servings": "6 porciones",
+      "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-pastel-salmon-mayonesa.jpg"
     },
     {
       "title": "Cocktail con espuma de mayonesa Ybarra",
       "ingredients": ["Mayonesa", "Pulpo", "Ajo", "Perejil"],
       "url": "https://ybarraentucocina.com/recetas/cocktail-espuma-mayonesa-ybarra",
       "type": "Snack",
-      "dietary_restrictions": ["Intolerante a la lactosa"]
+      "dietary_restrictions": ["Intolerante a la lactosa"],
+      "preparation_time": "15 min",
+      "servings": "2 porciones",
+      "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-cocktail-pulpo-mayonesa.jpg"
     }
-  ]
+]
   
