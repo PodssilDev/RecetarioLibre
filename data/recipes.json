@@ -138,6 +138,205 @@
       "preparation_time": "15 min",
       "servings": "2 porciones",
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-cocktail-pulpo-mayonesa.jpg"
+    },
+    {
+        "title": "Tarta fantasma para Halloween",
+        "ingredients": ["Bizcocho", "Azúcar", "Claras de huevo", "Chocolate"],
+        "url": "https://ybarraentucocina.com/recetas/tarta-fantasma-para-halloween",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "60 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2021/10/recetas-ybarra-tarta-fantasma-halloween-aceite-495x400.jpg"
+    },
+    {
+        "title": "Tarta para Halloween: cementerio abandonado de chocolate",
+        "ingredients": ["Chocolate", "Galletas", "Nata", "Leche", "Azúcar"],
+        "url": "https://ybarraentucocina.com/recetas/tarta-para-halloween-cementerio-abandonado-de-chocolate/",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "90 min",
+        "servings": "10 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2021/09/recetas-ybarra-tarta-chocolate-halloween-cementerio-abandonado-495x400.jpg"
+    },
+    {
+        "title": "Tarta de galletas, queso y chocolate",
+        "ingredients": ["Galletas", "Queso crema", "Chocolate", "Azúcar", "Nata"],
+        "url": "https://ybarraentucocina.com/recetas/tarta-de-galletas-queso-y-chocolate",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "70 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-tarta-chocolate-helado-queso-495x400.jpg"
+    },
+    {
+        "title": "Tarta de calabaza y chocolate",
+        "ingredients": ["Calabaza", "Chocolate", "Harina", "Azúcar", "Huevos"],
+        "url": "https://ybarraentucocina.com/recetas/tarta-de-calabaza-y-chocolate",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "80 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-tarta-calabaza-chocolate-virgen-extra-halloween-495x400.jpg"
+    },
+    {
+        "title": "Tarta de flan y chocolate",
+        "ingredients": ["Flan", "Chocolate", "Leche", "Azúcar", "Huevos"],
+        "url": "https://ybarraentucocina.com/recetas/tarta-de-flan-y-chocolate",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "75 min",
+        "servings": "10 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-tarta-flan-chocolate-495x400.jpg"
+    },
+    {
+        "title": "Polo de fruta con chocolate",
+        "ingredients": ["Plátano", "Chocolate negro", "Leche", "Azúcar"],
+        "url": "https://ybarraentucocina.com/recetas/polo-de-fruta-con-chocolate",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "15 min + congelación",
+        "servings": "6 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/POLOS_PLATANO_CHOCOLATE-495x400.jpg"
+    },
+    {
+        "title": "Smoothie de plátano y mango",
+        "ingredients": ["Plátano", "Mango", "Yogur", "Leche", "Miel"],
+        "url": "https://ybarraentucocina.com/recetas/smoothie-de-platano-y-mango",
+        "type": "Bebida",
+        "dietary_restrictions": [],
+        "preparation_time": "10 min",
+        "servings": "2 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-smoothie-495x400.jpg"
+    },
+    {
+        "title": "Bizcocho de turrón",
+        "ingredients": ["Turrón", "Harina", "Azúcar", "Huevos", "Leche"],
+        "url": "https://ybarraentucocina.com/recetas/bizcocho-de-turron",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "60 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/11/recetas-ybarra-bizcocho-de-turron-aceite-495x400.jpg"
+    },
+    {
+        "title": "Bizcocho de limón",
+        "ingredients": ["Limón", "Harina", "Azúcar", "Huevos", "Aceite de oliva"],
+        "url": "https://ybarraentucocina.com/recetas/bizcocho-de-limon",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "50 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-limon-495x400.jpg"
+    },
+    {
+        "title": "Bizcocho de manzana, zanahoria y canela",
+        "ingredients": ["Manzana", "Zanahoria", "Canela", "Harina", "Azúcar", "Huevos"],
+        "url": "https://ybarraentucocina.com/recetas/bizcocho-de-manzana-zanahoria-y-canela",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "60 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-manzana-zanahoria-495x400.jpg"
+    },
+    {
+        "title": "Bizcocho de yogur y naranja",
+        "ingredients": ["Yogur", "Harina", "Naranjas", "Azúcar", "Huevos"],
+        "url": "https://ybarraentucocina.com/recetas/bizcocho-de-yogur-y-naranja",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "45 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-yogur-naranja-495x400.jpg"
+    },
+    {
+        "title": "Bizcocho de pera",
+        "ingredients": ["Pera", "Harina", "Azúcar", "Huevos", "Leche"],
+        "url": "https://ybarraentucocina.com/recetas/bizcocho-de-pera",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "60 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-pera-495x400.jpg"
+    },
+    {
+        "title": "Bizcocho de piña",
+        "ingredients": ["Piña", "Harina", "Azúcar", "Huevos", "Aceite de oliva"],
+        "url": "https://ybarraentucocina.com/recetas/bizcocho-de-pina",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "50 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-pina-495x400.jpg"
+    },
+    {
+        "title": "Bizcocho de chocolate sin harina",
+        "ingredients": ["Chocolate", "Azúcar", "Huevos", "Aceite de oliva"],
+        "url": "https://ybarraentucocina.com/recetas/bizcocho-de-chocolate-sin-harina",
+        "type": "Postre",
+        "dietary_restrictions": ["Sin gluten"],
+        "preparation_time": "45 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-sin-harina-495x400.jpg"
+    },
+    {
+        "title": "Milhojas de chocolate y frutos secos",
+        "ingredients": ["Obleas dulces", "Chocolate", "Frutos secos"],
+        "url": "https://ybarraentucocina.com/recetas/milhojas-de-chocolate-y-frutos-secos",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "30 min",
+        "servings": "6 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/11/recetas-ybarra-milhojas-chocolate-aceite-virgen-extra-495x400.jpg"
+    },
+    {
+        "title": "Mousse de chocolate sin nata",
+        "ingredients": ["Chocolate", "Huevos", "Azúcar"],
+        "url": "https://ybarraentucocina.com/recetas/mousse-de-chocolate-sin-nata",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "20 min",
+        "servings": "4 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-como-hacer-mousse-chocolate-virgen-extra-sin-huevo-495x400.jpg"
+    },
+    {
+        "title": "Vasitos de fresa y chocolate",
+        "ingredients": ["Fresas", "Chocolate", "Nata", "Azúcar"],
+        "url": "https://ybarraentucocina.com/recetas/vasitos-de-fresa-y-chocolate",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "20 min",
+        "servings": "4 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-vasitos-fresa-chocolate-495x400.jpg"
+    },
+    {
+        "title": "Copitas de arroz con leche condensada y chocolate",
+        "ingredients": ["Arroz", "Leche condensada", "Chocolate blanco", "Azúcar", "Canela"],
+        "url": "https://ybarraentucocina.com/recetas/copitas-de-arroz-con-leche-condensada-y-chocolate",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "45 min",
+        "servings": "6 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-flan-leche-condensada-495x400.jpg"
+    },
+    {
+        "title": "Crepes de turrón de chocolate",
+        "ingredients": ["Harina", "Leche", "Huevos", "Turrón de chocolate", "Azúcar"],
+        "url": "https://ybarraentucocina.com/recetas/crepes-de-turron-de-chocolate",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "30 min",
+        "servings": "4 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-crepes-turron-aceite-oliva-afrutado-495x400.jpg"
+    },
+    {
+        "title": "Brownie cheesecake con frambuesas",
+        "ingredients": ["Chocolate negro", "Queso crema", "Frambuesas", "Azúcar", "Huevos"],
+        "url": "https://ybarraentucocina.com/recetas/brownie-cheesecake-frambuesas",
+        "type": "Postre",
+        "dietary_restrictions": [],
+        "preparation_time": "60 min",
+        "servings": "8 porciones",
+        "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-brownie-cheese-cake-tarta-queso-frambuesa-495x400.jpg"
     }
 ]
-  
