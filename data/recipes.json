@@ -338,7 +338,7 @@
         "preparation_time": "60 min",
         "servings": "8 porciones",
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-brownie-cheese-cake-tarta-queso-frambuesa-495x400.jpg"
-    }
+    },
     {
           "title": "Empanadas sin gluten",
           "ingredients": [
@@ -363,7 +363,7 @@
           ],
           "preparation_time": "180 min",
           "servings": "12 porciones",
-          "image_url": "https://cookpad.com/cl/recipe/images/323545c3cf2e99a5"
+          "image_url": "https://img-global.cpcdn.com/recipes/323545c3cf2e99a5/640x640sq70/photo.webp"
       },
       {
           "title": "Salmón Marinado Casero",
@@ -558,7 +558,7 @@
           ],
           "preparation_time": "60 min",
           "servings": "4 porciones",
-          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2018/09/pollo-al-chilindron-guisado.jpg"
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2019/01/Pollo-al-chilindron.jpg"
       },
       {
           "title": "Arroz al Curry",
@@ -664,6 +664,7 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
+          "preparation_time": "65 minutos",
           "servings": "6 porciones",
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2023/11/TORTILLA.jpg"
       },
