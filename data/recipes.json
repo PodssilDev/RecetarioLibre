@@ -339,4 +339,479 @@
         "servings": "8 porciones",
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-brownie-cheese-cake-tarta-queso-frambuesa-495x400.jpg"
     }
+    {
+          "title": "Empanadas sin gluten",
+          "ingredients": [
+              "Huevos",
+              "Aceitunas",
+              "Zanahorias",
+              "Cebollas",
+              "Carne molida",
+              "Aliños",
+              "Cholgas sin gluten",
+              "Queso",
+              "Mix empanadas mezcla",
+              "Aceite",
+              "Sal",
+              "Agua tibia",
+              "Harina de arroz y/o maíz"
+          ],
+          "url": "https://cookpad.com/cl/recetas/16510798-empanadas-sin-gluten?ref=search&search_term=almuerzo%20sin%20tacc",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Celiaco"
+          ],
+          "preparation_time": "180 min",
+          "servings": "12 porciones",
+          "image_url": "https://cookpad.com/cl/recipe/images/323545c3cf2e99a5"
+      },
+      {
+          "title": "Salmón Marinado Casero",
+          "ingredients": [
+              "Filete de salmón fresco",
+              "Sal marina",
+              "Azúcar moreno",
+              "Granos de pimienta negra",
+              "Eneldo fresco",
+              "Limón (zumo y ralladura)"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/salmon-marinado-receta-casera/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Celiaco"
+          ],
+          "preparation_time": "12 hrs",
+          "servings": "4 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2024/02/salmon-marinado-casero.jpg"
+      },
+      {
+          "title": "Alcachofas al Horno con Queso",
+          "ingredients": [
+              "Alcachofas frescas",
+              "Queso mozarella rallado",
+              "Queso parmesano rallado",
+              "Dientes de ajo",
+              "Zumo de limón",
+              "Ralladura de limón",
+              "Perejil fresco picado",
+              "Hojas de hierbabuena (opcional)",
+              "Sal y pimienta negra",
+              "Aceite"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/alcachofas-al-horno-con-queso/#google_vignette",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Celiaco"
+          ],
+          "preparation_time": "30 min",
+          "servings": "4 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2024/03/Alcachofas-al-horno-con-queso.jpg"
+      },
+      {
+          "title": "Calabacines Rellenos de Pollo y Champiñones",
+          "ingredients": [
+              "Calabacines medianos",
+              "Pechuga de pollo",
+              "Champiñones",
+              "Dientes de ajo",
+              "Cebolla",
+              "Pimiento rojo",
+              "Tomate triturado",
+              "Queso para gratinar",
+              "Sal y pimienta",
+              "Aceite"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/calabacines-rellenos-de-pollo-y-champinones/#google_vignette",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Celiaco"
+          ],
+          "preparation_time": "60 min",
+          "servings": "2 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2023/12/calabacines-rellenos-de-pollo-y-champinones.jpg"
+      },
+      {
+          "title": "Pechugas de Pollo con Bacon y Queso",
+          "ingredients": [
+              "Pechugas de pollo",
+              "Bacon",
+              "Mozarella rallada",
+              "Salsa barbacoa",
+              "Sazonador barbacoa"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/pechugas-de-pollo-con-bacon-y-queso/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Celiaco"
+          ],
+          "preparation_time": "20 min",
+          "servings": "4 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2023/10/Pechugas-de-pollo-con-bacon-rellenas-1.jpg"
+      },
+      {
+          "title": "Berenjenas Rellenas de Atún",
+          "ingredients": [
+              "Berenjenas",
+              "Atún en conserva",
+              "Cebolla",
+              "Pimiento rojo",
+              "Salsa de tomate",
+              "Queso rallado",
+              "Orégano seco",
+              "Sal y pimienta",
+              "Aceite"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/berenjenas-rellenas-de-atun/#google_vignette",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Celiaco"
+          ],
+          "preparation_time": "60 min",
+          "servings": "4 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2023/01/Berenjenas-rellenas-de-atun-al-horno-1000x563.jpg"
+      },
+      {
+          "title": "Crema de Calabacín y Zanahoria",
+          "ingredients": [
+              "Calabacines",
+              "Zanahorias",
+              "Patata",
+              "Dientes de ajo",
+              "Queso sin lactosa",
+              "Caldo de verduras o agua",
+              "Aceite de oliva",
+              "Pimienta",
+              "Sal"
+          ],
+          "url": "https://nutira.es/blog/recetas-sin-lactosa-cuesta-de-enero/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Intolerante a la lactosa"
+          ],
+          "preparation_time": "30 min",
+          "servings": "4 porciones",
+          "image_url": "https://nutira.es/wp-content/uploads/2017/01/receta-sin-lactosa-crema-de-calabacin.png"
+      },
+      {
+          "title": "Pollo al Curry con Leche de Coco",
+          "ingredients": [
+              "Pechugas de pollo",
+              "Cebollas medianas",
+              "Dientes de ajo",
+              "Tomate triturado",
+              "Curry",
+              "Leche de coco",
+              "Perejil",
+              "Aceite de coco (opcional)",
+              "Aceite de oliva",
+              "Sal y pimienta negra"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/pollo-al-curry-con-leche-de-coco/#google_vignette",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Intolerante a la lactosa"
+          ],
+          "preparation_time": "30 min",
+          "servings": "4 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2018/10/Pollo-al-curry-con-leche-de-coco.jpg"
+      },
+      {
+          "title": "Salteado de Verduras con Pollo",
+          "ingredients": [
+              "Pechuga de pollo",
+              "Pimiento verde",
+              "Pimiento rojo",
+              "Cebolla",
+              "Curry",
+              "Pimentón dulce",
+              "Comino",
+              "Sal y pimienta",
+              "Aceite de oliva"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/salteado-de-verduras-con-pollo/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Intolerante a la lactosa"
+          ],
+          "preparation_time": "20 min",
+          "servings": "6 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2019/04/salteado-de-verdurascon-pollo-al-curry.jpg"
+      },
+      {
+          "title": "Pollo al Chilindrón Guisado",
+          "ingredients": [
+              "Muslos de pollo",
+              "Jamón",
+              "Dientes de ajo",
+              "Cebollas",
+              "Pimientos rojos",
+              "Pimiento verde",
+              "Tomates",
+              "Vino blanco",
+              "Sal y pimienta",
+              "Aceite de oliva"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/pollo-al-chilindron-guisado/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Intolerante a la lactosa"
+          ],
+          "preparation_time": "60 min",
+          "servings": "4 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2018/09/pollo-al-chilindron-guisado.jpg"
+      },
+      {
+          "title": "Arroz al Curry",
+          "ingredients": [
+              "Arroz basmati",
+              "Cebolla",
+              "Dientes de ajo",
+              "Caldo de verduras",
+              "Curry",
+              "Comino molido",
+              "Jengibre en polvo",
+              "Sal y pimienta",
+              "Aceite"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/arroz-al-curry/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Intolerante a la lactosa"
+          ],
+          "preparation_time": "30 min",
+          "servings": "2 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2023/11/Arroz-al-curry-1000x563.jpg"
+      },
+      {
+          "title": "Vichyssoise sin Nata",
+          "ingredients": [
+              "Patatas medianas",
+              "Puerros medianos",
+              "Cebollas",
+              "Caldo de verduras",
+              "Leche de coco",
+              "Sal y pimienta",
+              "Aceite"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/vichyssoise-receta-facil/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Intolerante a la lactosa"
+          ],
+          "preparation_time": "35 min",
+          "servings": "4 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2023/05/vichyssoise-receta-facil-1000x563.jpg"
+      },
+      {
+          "title": "Espaguetis a la Carbonara",
+          "ingredients": [
+              "Espagueti",
+              "Huevos",
+              "Queso curado (parmesano, manchego…)",
+              "Bacon o panceta",
+              "Sal y pimienta",
+              "Aceite de oliva"
+          ],
+          "url": "https://www.cocinacaserayfacil.net/espaguetis-carbonara/#google_vignette",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Vegetariano"
+          ],
+          "preparation_time": "20 min",
+          "servings": "4 porciones",
+          "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2021/11/Espagueti-a-la-carbonara.jpg"
+      },
+      {
+          "title": "Porotos Granados con Mazamorra",
+          "ingredients": [
+              "Aceite",
+              "Cebolla mediana",
+              "Ají de color",
+              "Orégano",
+              "Porotos granados frescos",
+              "Agua caliente",
+              "Tableta de caldo de verduras MAGGI®",
+              "Albahaca",
+              "Zapallo",
+              "Choclos grandes rallados o molidos"
+          ],
+          "url": "https://www.recetasnestle.cl/recetas/receta-de-porotos-granados-con-mazamorra",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Vegetariano"
+          ],
+          "preparation_time": "45 min",
+          "servings": "8 porciones",
+          "image_url": "https://www.recetasnestle.cl/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/4716ca31a6f16f8c918b9d08fdf606c5.webp?itok=lyqgbruy"
+      },
+      {
+          "title": "Tortilla de Zapallo Italiano",
+          "ingredients": [
+              "Zapallitos italianos",
+              "Champiñones en láminas",
+              "Pimentón rojo en cubos",
+              "Huevos",
+              "Orégano Gourmet",
+              "Sal de mar Gourmet",
+              "Mix de pimientas Gourmet",
+              "Pimienta Limón Gourmet",
+              "Aceite de oliva",
+              "Tomates cherry",
+              "Orégano fresco"
+          ],
+          "url": "https://www.gourmet.cl/recetas/tortilla-de-zapallo-italiano/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Vegetariano"
+          ],
+          "servings": "6 porciones",
+          "image_url": "https://www.gourmet.cl/wp-content/uploads/2023/11/TORTILLA.jpg"
+      },
+      {
+          "title": "Gnocchi Caprese One Pan",
+          "ingredients": [
+              "Gnocchi",
+              "Tomates cherry",
+              "Aceite de oliva",
+              "Sal de Mar Gourmet",
+              "Mix de Pimientas Gourmet",
+              "Bolitas de mozzarella",
+              "Hojas de albahaca"
+          ],
+          "url": "https://www.gourmet.cl/recetas/gnocchi-caprese-one-pan/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Vegetariano"
+          ],
+          "preparation_time": "65 minutos",
+          "servings": "4 porciones",
+          "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/gnocci-caprese-one-pan-ajustada-web-570x458.jpg"
+      },
+      {
+          "title": "Curry de Garbanzos",
+          "ingredients": [
+              "Aceite vegetal",
+              "Cebolla blanca",
+              "Ajo molido o rallado finamente",
+              "Jengibre pelado y rallado finamente",
+              "Curry en Polvo Gourmet",
+              "Comino Molido Gourmet",
+              "Garbanzos cocidos",
+              "Tomates enlatados, picados",
+              "Crema de coco",
+              "Sal de Mar Gourmet",
+              "Mix de Pimientas Gourmet",
+              "Arroz basmati",
+              "Agua",
+              "Sal"
+          ],
+          "url": "https://www.gourmet.cl/recetas/curry-de-garbanzos/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Vegetariano"
+          ],
+          "preparation_time": "45 minutos",
+          "servings": "2 porciones",
+          "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/curry-de-garbanzos-ajustada-web-570x458.jpg"
+      },
+      {
+          "title": "Boloñesa de Lentejas",
+          "ingredients": [
+              "Champiñones deshidratados",
+              "Agua hervida",
+              "Aceite de oliva",
+              "Cebolla blanca",
+              "Zanahoria",
+              "Apio",
+              "Hojas de laurel",
+              "Ajo molido o rallado finamente",
+              "Concentrado de tomate",
+              "Tomates pelados, sin semillas y picados finamente",
+              "Champiñones",
+              "Lentejas de 3mm",
+              "Sal de Mar Gourmet",
+              "Mix de Pimientas Gourmet"
+          ],
+          "url": "https://www.gourmet.cl/recetas/bolognesa-de-lentejas/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Vegetariano"
+          ],
+          "preparation_time": "60 minutos",
+          "servings": "4 porciones",
+          "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/bolognesa-de-lentejas-ajustada-web-570x458.jpg"
+      },
+      {
+          "title": "Camote Relleno",
+          "ingredients": [
+              "Camotes",
+              "Porotos negros cocidos",
+              "Salsa Barbecue Gourmet reducida en azúcar",
+              "Cebollín (solo la parte blanca)",
+              "Sal de Mar Gourmet",
+              "Mix de Pimientas Gourmet",
+              "Palta laminada",
+              "Queso fresco desmenuzado",
+              "Hojas de cilantro"
+          ],
+          "url": "https://www.gourmet.cl/recetas/camote-relleno/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Vegetariano"
+          ],
+          "preparation_time": "70 minutos",
+          "servings": "2 porciones",
+          "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/camote-relleno-ajustada-web-570x458.jpg"
+      },
+      {
+          "title": "Papas a la Huancaína",
+          "ingredients": [
+              "Ají amarillo fresco",
+              "Queso fresco",
+              "Leche evaporada",
+              "Aceite vegetal",
+              "Sal de Mar Gourmet",
+              "Mix de Pimientas Gourmet",
+              "Papa",
+              "Huevos",
+              "Aceitunas azapa amargas",
+              "Hojas de lechuga"
+          ],
+          "url": "https://www.gourmet.cl/recetas/papas-a-la-huancaina/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Vegetariano"
+          ],
+          "preparation_time": "60 minutos",
+          "servings": "4 porciones",
+          "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/papas-a-la-huancaina-ajustada-web-570x458.jpg"
+      },
+      {
+          "title": "Hamburguesas de Garbanzos",
+          "ingredients": [
+              "Garbanzos cocidos",
+              "Aceite",
+              "Cebolla",
+              "Zanahoria",
+              "Pimentón rojo",
+              "Ajo en Polvo Gourmet",
+              "Comino Molido Gourmet",
+              "Ají de Color Gourmet",
+              "Orégano Entero Gourmet",
+              "Pimienta Negra Molida Gourmet",
+              "Sal de Mar Gourmet",
+              "Perejil",
+              "Cilantro",
+              "Pan rallado"
+          ],
+          "url": "https://www.gourmet.cl/recetas/hamburguesas-de-garbanzos/",
+          "type": "Almuerzo",
+          "dietary_restrictions": [
+              "Vegetariano"
+          ],
+          "preparation_time": "15 minutos",
+          "servings": "8 porciones",
+          "image_url": "https://www.gourmet.cl/wp-content/uploads/2018/04/foto-editada-2-1.jpg"
+      }
+
 ]
