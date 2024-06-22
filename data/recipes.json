@@ -813,6 +813,476 @@
           "preparation_time": "15 minutos",
           "servings": "8 porciones",
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2018/04/foto-editada-2-1.jpg"
-      }
-
+      },
+      {
+        "title": "Fingers de Boniato",
+        "ingredients": [
+            "Boniatos",
+            "Queso feta",
+            "Aceite de oliva",
+            "Especias cajún",
+            "Canela",
+            "Sal"
+        ],
+        "url": "https://celiacplan.com/recetas/lista-recetas/fingers-boniato-sin-gluten",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "23 minutos",
+        "servings": "2 porciones",
+        "image_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c6d2c595-2f8f-4964-a776-5e595654c0e5/Fingers-boniato-especias-queso-sin-gluten-feta/public"
+    },
+    {
+        "title": "Endibias Gratinadas",
+        "ingredients": [
+            "Endibias",
+            "Cebolla",
+            "Beicon",
+            "Queso emmental",
+            "Aceite de oliva",
+            "Sal",
+            "Agua"
+        ],
+        "url": "https://celiacplan.com/recetas/lista-recetas/endibia-beicon-queso-sin-gluten",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "25 minutos",
+        "servings": "2 porciones",
+        "image_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1f20cc67-c94d-4d56-9cc9-60f6e97c9a26/Endibia-beicon-queso-sin-gluten-servir/w=640,quality=90,fit=scale-down"
+    },
+    {
+        "title": "Ensalada de Brócoli y Manzana",
+        "ingredients": [
+            "Brócoli",
+            "Manzana",
+            "Nueces",
+            "Yogur natural",
+            "Mostaza",
+            "Sal",
+            "Pimienta"
+        ],
+        "url": "https://celiacplan.com/recetas/lista-recetas/ensalada-brocoli-judia-sin-gluten",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "20 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/604702e7-f2c6-4012-82f5-88f5ebf7b8a0/Ensalada-brocoli-judia-manzana-sin-gluten/w=640,quality=90,fit=scale-down"
+    },
+    {
+        "title": "Hummus de lenteja y naranja",
+        "ingredients": [
+            "Lentejas",
+            "Hoja de laurel",
+            "Dientes de ajo",
+            "Tahini",
+            "Aceite de oliva",
+            "Zumo de naranja",
+            "Piel rallada de naranja",
+            "Zumo de limón",
+            "Comino",
+            "Cilantro molido",
+            "Perejil fresco",
+            "Pimienta negra",
+            "Sal"            
+        ],
+        "url": "https://www.cuerpomente.com/blogs/marketas-kitchen/cenas-sin-gluten-faciles_9799",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "40 minutos",
+        "servings": "1 porción",
+        "image_url": "https://content.cuerpomente.com/medio/2022/04/04/hummus-de-lentejas_2de1d386_900x600.jpg"
+    },
+    {
+        "title": "Rollitos Vienamitas con tofu crijiente",
+        "ingredients": [
+            "Obleas de arroz",
+            "Zanahoria",
+            "Pimiento rojo",
+            "Mango",
+            "Cilantro",
+            "Menta",
+            "Tofu",
+            "Salsa de soja",
+            "Ajo en polvo",
+            "Maicena",
+            "Aceite",
+            "Mantequilla de cacahuete",
+            "Zumo de limón",
+            "Cayena",
+            "Jengibre fresco",
+            "Sirope de arce",
+            "Agua"
+        ],
+        "url": "https://www.cuerpomente.com/blogs/marketas-kitchen/cenas-sin-gluten-faciles_9799",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "35 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://content.cuerpomente.com/medio/2022/04/04/rollitos-vietnamitas-con-tofu-crujiente_44773106_900x600.jpg"
+    },
+    {
+        "title": "Ensalada de coliflor y garbanzos con añiño de Tahini",
+        "ingredients": [
+            "Coliflor",
+            "Berenjena",
+            "Garbanzos cocidos",
+            "Sal",
+            "Aceite de oliva",
+            "Comino",
+            "Cilantro molido",
+            "Ajo en polvo",
+            "Pimentón",
+            "Almendra",
+            "Tahini",
+            "Levadura nutricional",
+            "Zumo de limón",
+            "Ajo en polvo",
+            "Agua",
+            "Sal",
+            "Rúcula"
+        ],
+        "url": "https://www.cuerpomente.com/blogs/marketas-kitchen/cenas-sin-gluten-faciles_9799",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "45 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://content.cuerpomente.com/medio/2022/04/04/ensalada-de-garbanzos-y-coliflor_b85e5860_900x600.jpg"
+    },
+    {
+        "title": "Fritters de Calabacín sin gluten",
+        "ingredients": [
+            "Calabacines",
+            "Sal",
+            "Huevos",
+            "Ajo en polvo",
+            "Harina de garbanzos",
+            "Levadura nutricional",
+            "Comino",
+            "Hierbas finas",
+            "Polvo para hornear",
+            "Aceite",
+            "Yogur",
+            "Zumo de limón",
+            "Sal"
+        ],
+        "url": "https://www.cuerpomente.com/blogs/marketas-kitchen/cenas-sin-gluten-faciles_9799",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "40 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://content.cuerpomente.com/medio/2022/04/04/fritters-de-calabacin-con-salsa-de-yogur_bd6942a9_900x600.jpg"
+    },
+    {
+        "title": "Ensalada de atún cremosa",
+        "ingredients": [
+            "Atún",
+            "Limón",
+            "Mostaza",
+            "Sal de ajo",
+            "Mayonesa",
+            "Cilantro",
+            "Cebolla",
+            "Salsa asiática de pescado",
+            "Pimienta negra molida"
+        ],
+        "url": "https://www.directoalpaladar.com/recetas-de-ensaladas/mejor-ensalada-atun-lata-receta-para-cena-aperitivo-muy-facil-perfecto-para-picnic",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Intolerante a la lactosa"
+        ],
+        "preparation_time": "10 minutos",
+        "servings": "2 porciones",
+        "image_url": "https://i.blogs.es/c10d18/ensalada_atun/1024_2000.jpg"
+    },
+    {
+        "title": "Ensaladilla rusa casera",
+        "ingredients": [
+            "Papas",
+            "Huevos",
+            "Zanahoria",
+            "Mayonesa casera",
+            "Sal",
+            "Vinagre de vino blanco"
+        ],
+        "url": "https://www.directoalpaladar.com/recetas-de-ensaladas/como-hacer-ensaladilla-rusa-matricula-honor-seguimos-recomendaciones-chef-juan-pozuelo",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Intolerante a la lactosa"
+        ],
+        "preparation_time": "55 minutos",
+        "servings": "6 porciones",
+        "image_url": "https://i.blogs.es/815abd/ensaladilla-rusa/1024_2000.jpg"
+    },
+    {
+        "title": "Crema Essau de lentejas, puerro y cebolla",
+        "ingredients": [
+            "Lentejas cocidas",
+            "Puerro",
+            "Cebolla",
+            "Aceite de oliva",
+            "Pimentón",
+            "Sal",
+            "Caldo de verduras"
+        ],
+        "url": "https://www.directoalpaladar.com/recetas-de-sopas-y-cremas/crema-essau-lentejas-puerro-cebolla-plato-cuchara-que-reconforta-cuerpo-alma",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Intolerante a la lactosa"
+        ],
+        "preparation_time": "30 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://i.blogs.es/84d2a1/crema-essau/1024_2000.jpg"
+    },
+    {
+        "title": "Gazpachuelo malagueño",
+        "ingredients": [
+            "Papas",
+            "Merluza",
+            "Laurel",
+            "Perejil fresco",
+            "Agua",
+            "Gambones",
+            "Huevo",
+            "Limón",
+            "Aceite de oliva",
+            "Aceite de girasol",
+            "Sal"
+        ],
+        "url": "https://www.directoalpaladar.com/recetas-de-sopas-y-cremas/gazpachuelo-malagueno-receta-tradicional",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Intolerante a la lactosa"
+        ],
+        "preparation_time": "80 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://i.blogs.es/d6e7b2/gazpachuelo/1024_2000.jpg"
+    },
+    {
+        "title": "Caldo de pollo",
+        "ingredients": [
+            "Carcasa de pollo",
+            "Alitas de pollo",
+            "Agua",
+            "Puerro",
+            "Papas",
+            "Cebolla",
+            "Zanahoria"
+        ],
+        "url": "https://www.directoalpaladar.com/recetas-de-sopas-y-cremas/como-hacer-caldo-pollo-casero-reconfortante-trucos-te-quede-sabroso-nada-grasa",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Intolerante a la lactosa"
+        ],
+        "preparation_time": "135 minutos",
+        "servings": "6 porciones",
+        "image_url": "https://i.blogs.es/1e0e14/caldo-casero-pollo-directo-paladar-pakus/1024_2000.jpg"
+    },
+    {
+        "title": "Crema de coliflor",
+        "ingredients": [
+            "Coliflor",
+            "Puerro",
+            "Cebolla",
+            "Caldo de verduras",
+            "Aceite de oliva",
+            "Mantequilla",
+            "Vinagre de Jerez",
+            "Cebollino",
+            "Pimienta negra molida",
+            "Sal"
+        ],
+        "url": "https://www.directoalpaladar.com/recetas-de-sopas-y-cremas/crema-de-coliflor-cremosa-y-ligera-la-receta-mas-sencilla-y-sabrosa-con-un-pequeno-truco",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Intolerante a la lactosa"
+        ],
+        "preparation_time": "55 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://i.blogs.es/d834ec/crema-coliflor.cremosa/1024_2000.jpg"
+    },
+    {
+        "title": "Crema de calabaza a la sidra con rúcula y avellanas",
+        "ingredients": [
+            "Calabaza",
+            "Cebolla ",
+            "Jengibre fresco",
+            "Nabo blanco",
+            "Papa",
+            "Sidra seca",
+            "Caldo de verduras",
+            "Laurel",
+            "Rúcula",
+            "Avellanas",
+            "Cúrcuma",
+            "Comino",
+            "Pimienta negra",
+            "Sal",
+            "Aceite de oliva"        
+        ],
+        "url": "https://www.directoalpaladar.com/recetas-de-sopas-y-cremas/crema-de-calabaza-a-la-sidra-con-rucula-y-avellanas-receta",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Intolerante a la lactosa"
+        ],
+        "preparation_time": "40 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://i.blogs.es/4dcbd0/crema-calabaza-rucula1/1024_2000.jpg"
+    },
+    {
+        "title": "Lasaña de Berenjenas",
+        "ingredients": [
+            "Aceite de oliva",
+            "Berenjenas",
+            "Zapallitos italianos",
+            "Sal de mar",
+            "Pimienta",
+            "Merquén",
+            "Salsa de tomate",
+            "Pesto",
+            "Queso mozzarella",
+            "Queso rallado"
+        ],
+        "url": "https://www.gourmet.cl/recetas/lasana-de-berenjenas-y-tomates/",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "30 minutos",
+        "servings": "6 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2016/09/Lasana-de-Berenjenas-web-570x458.jpg"
+    },
+    {
+        "title": "Tortilla de papas",
+        "ingredients": [
+            "Papas",
+            "Cebolla",
+            "Pimentón rojo",
+            "Huevos",
+            "Merquén",
+            "Sal",
+            "Pimienta Negra",
+            "Aceite"
+        ],
+        "url": "https://www.gourmet.cl/recetas/tortilla-de-papas/",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "20 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2011/04/tortilla_papas.jpg"
+    },
+    {
+        "title": "Risotto de champiñones",
+        "ingredients": [
+            "Callampas deshidratadas",
+            "Agua",
+            "Caldo en polvo de verduras",
+            "Aceite de oliva",
+            "Cebolla",
+            "Tomillo en hojas",
+            "Champiñones",
+            "Arroz arbóreo",
+            "Vino blanco",
+            "Sal de mar",
+            "Ajo",
+            "Perejil",
+            "Mantequilla con sal",
+            "Queso parmesano rallado",
+            "Pimienta negra"
+        ],
+        "url": "https://www.gourmet.cl/recetas/risotto-de-champinones/",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "50 minutos",
+        "servings": "6 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/01/risotto_video-retocada_DSC05353.jpg"
+    },
+    {
+        "title": "",
+        "ingredients": [
+            "Papas",
+            "Zanahorias",
+            "Tomates",
+            "Agua hirviendo",
+            "Caldo Concentrado de Verduras",
+            "Aceite",
+            "Cebolla",
+            "Pimentón rojo",
+            "Merquén",
+            "Comino",
+            "Ají de Color",
+            "Zapallitos italianos",
+            "Berenjena",
+            "Porotos verdes",
+            "Perejil fresco"
+        ],
+        "url": "https://www.gourmet.cl/recetas/guiso-de-verduras/",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "40 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2013/03/guiso-de-verduras.jpg"
+    },
+    {
+        "title": "Puré de camote al cardamomo",
+        "ingredients": [
+            "Zapallo camote",
+            "Papas",
+            "Leche",
+            "Mantequilla",
+            "Cardamomo",
+            "Pimienta Negra",
+            "Sal de Mar"
+        ],
+        "url": "https://www.gourmet.cl/recetas/pure-de-zapallo-camote-al-cardamomo/",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "30 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2012/07/pure-de-zapallo-al-cardamomo.jpg"
+    },
+    {
+        "title": "Arroz Primavera",
+        "ingredients": [
+            "Aceite",
+            "Cebolla",
+            "Diente de ajo",
+            "Zanahorias",
+            "Pimentón rojo",
+            "Arroz",
+            "Caldo de Verduras",
+            "Agua hirviendo",
+            "Arvejas congeladas",
+            "Granos de choclo",
+            "Sal"
+        ],
+        "url": "https://www.gourmet.cl/recetas/arroz-primavera/",
+        "type": "Cena",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "30 minutos",
+        "servings": "10 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2016/09/arroz-primavera-alta-570x458.jpg"
+    }
 ]
