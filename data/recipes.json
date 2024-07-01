@@ -195,7 +195,7 @@
         "url": "https://ybarraentucocina.com/recetas/polo-de-fruta-con-chocolate",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano", "Celiaco"],
-        "preparation_time": "15 min + congelación",
+        "preparation_time": "15 min",
         "servings": "6 porciones",
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/POLOS_PLATANO_CHOCOLATE-495x400.jpg"
     },
@@ -378,7 +378,7 @@
           "dietary_restrictions": [
               "Celiaco"
           ],
-          "preparation_time": "12 hrs",
+          "preparation_time": "720 min",
           "servings": "4 porciones",
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2024/02/salmon-marinado-casero.jpg"
       },
@@ -651,7 +651,7 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "65 minutos",
+          "preparation_time": "65 min",
           "servings": "6 porciones",
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2023/11/TORTILLA.jpg"
       },
@@ -671,7 +671,7 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "65 minutos",
+          "preparation_time": "65 min",
           "servings": "4 porciones",
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/gnocci-caprese-one-pan-ajustada-web-570x458.jpg"
       },
@@ -695,7 +695,7 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "45 minutos",
+          "preparation_time": "45 min",
           "servings": "2 porciones",
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/curry-de-garbanzos-ajustada-web-570x458.jpg"
       },
@@ -718,7 +718,7 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "60 minutos",
+          "preparation_time": "60 min",
           "servings": "4 porciones",
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/bolognesa-de-lentejas-ajustada-web-570x458.jpg"
       },
@@ -739,7 +739,7 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "70 minutos",
+          "preparation_time": "70 min",
           "servings": "2 porciones",
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/camote-relleno-ajustada-web-570x458.jpg"
       },
@@ -761,7 +761,7 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "60 minutos",
+          "preparation_time": "60 min",
           "servings": "4 porciones",
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/papas-a-la-huancaina-ajustada-web-570x458.jpg"
       },
@@ -785,7 +785,7 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "15 minutos",
+          "preparation_time": "15 min",
           "servings": "8 porciones",
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2018/04/foto-editada-2-1.jpg"
       },
@@ -804,7 +804,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "23 minutos",
+        "preparation_time": "23 min",
         "servings": "2 porciones",
         "image_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c6d2c595-2f8f-4964-a776-5e595654c0e5/Fingers-boniato-especias-queso-sin-gluten-feta/public"
     },
@@ -824,7 +824,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "25 minutos",
+        "preparation_time": "25 min",
         "servings": "2 porciones",
         "image_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1f20cc67-c94d-4d56-9cc9-60f6e97c9a26/Endibia-beicon-queso-sin-gluten-servir/w=640,quality=90,fit=scale-down"
     },
@@ -844,7 +844,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "20 minutos",
+        "preparation_time": "20 min",
         "servings": "4 porciones",
         "image_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/604702e7-f2c6-4012-82f5-88f5ebf7b8a0/Ensalada-brocoli-judia-manzana-sin-gluten/w=640,quality=90,fit=scale-down"
     },
@@ -869,7 +869,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "40 minutos",
+        "preparation_time": "40 min",
         "servings": "1 porción",
         "image_url": "https://content.cuerpomente.com/medio/2022/04/04/hummus-de-lentejas_2de1d386_900x600.jpg"
     },
@@ -896,7 +896,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "35 minutos",
+        "preparation_time": "35 min",
         "servings": "4 porciones",
         "image_url": "https://content.cuerpomente.com/medio/2022/04/04/rollitos-vietnamitas-con-tofu-crujiente_44773106_900x600.jpg"
     },
@@ -925,7 +925,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "45 minutos",
+        "preparation_time": "45 min",
         "servings": "4 porciones",
         "image_url": "https://content.cuerpomente.com/medio/2022/04/04/ensalada-de-garbanzos-y-coliflor_b85e5860_900x600.jpg"
     },
@@ -948,7 +948,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "40 minutos",
+        "preparation_time": "40 min",
         "servings": "4 porciones",
         "image_url": "https://content.cuerpomente.com/medio/2022/04/04/fritters-de-calabacin-con-salsa-de-yogur_bd6942a9_900x600.jpg"
     },
@@ -969,7 +969,7 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "10 minutos",
+        "preparation_time": "10 min",
         "servings": "2 porciones",
         "image_url": "https://i.blogs.es/c10d18/ensalada_atun/1024_2000.jpg"
     },
@@ -988,7 +988,7 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "55 minutos",
+        "preparation_time": "55 min",
         "servings": "6 porciones",
         "image_url": "https://i.blogs.es/815abd/ensaladilla-rusa/1024_2000.jpg"
     },
@@ -1008,7 +1008,7 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "30 minutos",
+        "preparation_time": "30 min",
         "servings": "4 porciones",
         "image_url": "https://i.blogs.es/84d2a1/crema-essau/1024_2000.jpg"
     },
@@ -1031,7 +1031,7 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "80 minutos",
+        "preparation_time": "80 min",
         "servings": "4 porciones",
         "image_url": "https://i.blogs.es/d6e7b2/gazpachuelo/1024_2000.jpg"
     },
@@ -1051,7 +1051,7 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "135 minutos",
+        "preparation_time": "135 min",
         "servings": "6 porciones",
         "image_url": "https://i.blogs.es/1e0e14/caldo-casero-pollo-directo-paladar-pakus/1024_2000.jpg"
     },
@@ -1074,7 +1074,7 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "55 minutos",
+        "preparation_time": "55 min",
         "servings": "4 porciones",
         "image_url": "https://i.blogs.es/d834ec/crema-coliflor.cremosa/1024_2000.jpg"
     },
@@ -1101,7 +1101,7 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "40 minutos",
+        "preparation_time": "40 min",
         "servings": "4 porciones",
         "image_url": "https://i.blogs.es/4dcbd0/crema-calabaza-rucula1/1024_2000.jpg"
     },
@@ -1123,7 +1123,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "30 minutos",
+        "preparation_time": "30 min",
         "servings": "6 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2016/09/Lasana-de-Berenjenas-web-570x458.jpg"
     },
@@ -1144,7 +1144,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "20 minutos",
+        "preparation_time": "20 min",
         "servings": "4 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2011/04/tortilla_papas.jpg"
     },
@@ -1171,12 +1171,12 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "50 minutos",
+        "preparation_time": "50 min",
         "servings": "6 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/01/risotto_video-retocada_DSC05353.jpg"
     },
     {
-        "title": "",
+        "title": "Guiso de verduras",
         "ingredients": [
             "Papas",
             "Zanahorias",
@@ -1198,7 +1198,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "40 minutos",
+        "preparation_time": "40 min",
         "servings": "4 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2013/03/guiso-de-verduras.jpg"
     },
@@ -1218,7 +1218,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "30 minutos",
+        "preparation_time": "30 min",
         "servings": "4 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2012/07/pure-de-zapallo-al-cardamomo.jpg"
     },
@@ -1242,7 +1242,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "30 minutos",
+        "preparation_time": "30 min",
         "servings": "10 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2016/09/arroz-primavera-alta-570x458.jpg"
     },
@@ -1261,7 +1261,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "5 minutos",
+        "preparation_time": "5 min",
         "servings": "6 porciones",
         "image_url": "https://assets.unileversolutions.com/recipes-v3/212138-default.png?im=AspectCrop=(625,537);Resize=(625,537)"
     },
@@ -1278,7 +1278,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "10 minutos",
+        "preparation_time": "10 min",
         "servings": "2 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2021/09/Huevo-Pochado-iStock-1-570x458.jpg"
     },
@@ -1304,7 +1304,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "45 minutos",
+        "preparation_time": "45 min",
         "servings": "4 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/Shakshuka-ajustada-web-570x458.jpg"
     },
@@ -1322,7 +1322,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "90 minutos",
+        "preparation_time": "90 min",
         "servings": "8 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/05/Dulce-de-Membrillo-Web-570x458.jpg"
     },
@@ -1344,7 +1344,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "25 minutos",
+        "preparation_time": "25 min",
         "servings": "4 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2021/04/iStock-942682730-1-570x400.jpg"
     },
@@ -1364,7 +1364,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "10 minutos",
+        "preparation_time": "10 min",
         "servings": "10 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2020/06/iStock-1188944339-1-540x458.jpg"
     },
@@ -1384,7 +1384,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "10 minutos",
+        "preparation_time": "10 min",
         "servings": "4 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2019/01/pudin-de-chia-editar.jpg"
     },
@@ -1404,7 +1404,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "20 minutos",
+        "preparation_time": "20 min",
         "servings": "2 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2019/01/panqueques-avena-pl%C3%A1tano-video-retocada.jpg"
     },
@@ -1426,7 +1426,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "30 minutos",
+        "preparation_time": "30 min",
         "servings": "12 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2017/06/panqueques-avena.jpg"
     },
@@ -1445,7 +1445,7 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "5 minutos",
+        "preparation_time": "5 min",
         "servings": "2 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2017/02/15.jpg"
     },
@@ -1465,8 +1465,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "20 minutos",
-        "servings": "1 porciones",
+        "preparation_time": "20 min",
+        "servings": "1 porción",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2016/09/iStock-1138257410-1-570x458.jpg"
     },
     {
@@ -1480,7 +1480,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "10 minutos",
+        "preparation_time": "10 min",
         "servings": "3 porciones",
         "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2024/02/cafe-pour-over-1.jpg"
     },
@@ -1504,7 +1504,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "10 minutos",
+        "preparation_time": "10 min",
         "servings": "4 porciones",
         "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2024/03/pate-de-tofu-y-germinados-3.jpg"
     },
@@ -1519,7 +1519,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "10 minutos",
+        "preparation_time": "10 min",
         "servings": "8 porciones",
         "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2023/05/yogur-en-yogurtera-3.jpg"
     },
@@ -1541,7 +1541,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "10 minutos",
+        "preparation_time": "10 min",
         "servings": "2 porciones",
         "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2023/02/huevos-rancheros-1.jpg"
     },
@@ -1562,7 +1562,7 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "1 minutos",
+        "preparation_time": "2 min",
         "servings": "2 porciones",
         "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2018/05/batido-kombucha-miniatura.jpg"
     },
@@ -1580,9 +1580,9 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "10 minutos",
+        "preparation_time": "10 min",
         "servings": "4 porciones",
-        "image_url": "https://libredelacteos.com/wp-content/uploads/2016/05/IMG_7767-gachas-avena-750x400.jpg"
+        "image_url": "https://deliciaskitchen.b-cdn.net/wp-content/uploads/2021/11/gachas-de-avena-porridge-1170x781.jpg"
     },
     {
         "title": "Hotcakes de plátano",
@@ -1597,7 +1597,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "20 minutos",
+        "preparation_time": "20 min",
         "servings": "4 porciones",
         "image_url": "https://img-global.cpcdn.com/recipes/ba249b59f665021c/680x482cq70/hotcakes-de-platano-sin-gluten-foto-principal.webp"
     },
@@ -1618,9 +1618,9 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "80 minutos",
+        "preparation_time": "80 min",
         "servings": "8 porciones",
-        "image_url": "https://cookpad.com/cl/recipe/images/bd8afd9e99f8ab04?image_region_id=23"
+        "image_url": "https://img-global.cpcdn.com/recipes/bd8afd9e99f8ab04/680x482cq70/panes-amasados-sin-gluten-veganos-y-muy-ricos-foto-principal.webp"
     },
     {
         "title": "Churrascas sin gluten",
@@ -1636,7 +1636,7 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "50 minutos",
+        "preparation_time": "50 min",
         "servings": "8 porciones",
         "image_url": "https://img-global.cpcdn.com/recipes/c1536d8227dc830e/680x482cq70/churrascas-sin-gluten-en-sarten-pan-pita-gluten-free-sin-horno-foto-principal.webp"
     }

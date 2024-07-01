@@ -1,10 +1,11 @@
-import React from 'react';
+import React, {useState} from 'react';
 import ReactDOM from 'react-dom';
 import TypesenseInstantSearchAdapter from 'typesense-instantsearch-adapter';
-import { InstantSearch, SearchBox, Hits, RefinementList, Pagination, Configure, Highlight } from 'react-instantsearch-dom';
+import { InstantSearch, SearchBox, Hits, RefinementList, Pagination, Configure, Highlight, connectSearchBox } from 'react-instantsearch-dom';
+import Collapsible from 'react-collapsible';
 import 'instantsearch.css/themes/algolia-min.css';
 import './index.css';
-import { FaClock, FaUserFriends, FaUtensils, FaLeaf, FaCarrot } from 'react-icons/fa';
+import { FaClock, FaUserFriends, FaUtensils, FaLeaf, FaCarrot, FaChevronDown, FaChevronUp, FaSearch } from 'react-icons/fa';
 
 const typesenseInstantsearchAdapter = new TypesenseInstantSearchAdapter({
   server: {
@@ -53,33 +54,80 @@ const Hit = ({ hit }) => (
 );
 
 const CustomSearchBox = ({ currentRefinement, refine }) => (
-  <input
-    type="text"
-    placeholder="¿Qué receta vas a buscar hoy?"
-    value={currentRefinement}
-    onChange={event => refine(event.currentTarget.value)}
-    style={{
-      padding: '10px',
-      width: '100%',
-      borderRadius: '5px',
-      border: '1px solid #ccc',
-    }}
-  />
+  <div className="custom-search-box">
+    <input
+      type="text"
+      placeholder="¿Qué receta vas a buscar hoy?"
+      value={currentRefinement}
+      onChange={event => refine(event.currentTarget.value)}
+      className="custom-search-input"
+    />
+    <FaSearch className="search-icon" />
+  </div>
 );
+
+const SearchBoxWithSuggestions = connectSearchBox(({ currentRefinement, refine }) => {
+  const handleSuggestionClick = (suggestion) => {
+    refine(suggestion);
+  };
+
+  return (
+    <div>
+      <CustomSearchBox currentRefinement={currentRefinement} refine={refine} />
+      <div className="search-suggestions">
+        <span>Prueba: </span>
+        {['Huevo', 'Ensalada', 'Curry', 'Sin gluten', 'Limon', 'Lentejas'].map((suggestion, index) => (
+          <a key={index} href="#" onClick={(e) => { e.preventDefault(); handleSuggestionClick(suggestion); }}>
+            {suggestion}
+          </a>
+        ))}
+      </div>
+    </div>
+  );
+});
+
+const CollapsibleSection = ({ title, children }) => {
+  const [isOpen, setIsOpen] = useState(false);
+
+  const toggleOpen = () => setIsOpen(!isOpen);
+
+  return (
+    <div className="collapsible-section">
+      <div className="collapsible-header" onClick={toggleOpen}>
+        <span>{title}</span>
+        <span className="collapsible-icon">{isOpen ? <FaChevronUp /> : <FaChevronDown />}</span>
+      </div>
+      {isOpen && <div className="collapsible-content">{children}</div>}
+    </div>
+  );
+};
 
 const App = () => (
   <div>
     <InstantSearch indexName="recipes" searchClient={searchClient}>
       <header>
-        <h1 className="title">Recetario Libre</h1>
-        <SearchBox translations={{ placeholder: '¿Qué receta vas a buscar hoy?' }} />
+        <h1 className="title">Recetario Libre 🥘</h1>
+        <SearchBoxWithSuggestions />
       </header>
       <main>
         <div className="filters">
-          <h2>Tipo de comida</h2>
-          <RefinementList attribute="type" />
-          <h2>Restricción Alimenticia</h2>
-          <RefinementList attribute="dietary_restrictions" />
+        <h2 className="filters-title">Filtros</h2>
+        <hr />
+          <CollapsibleSection title="Tipo de Comida">
+            <RefinementList attribute="type"  />
+          </CollapsibleSection>
+          <CollapsibleSection title="Restricción Alimenticia">
+            <RefinementList attribute="dietary_restrictions" />
+          </CollapsibleSection>
+          <CollapsibleSection title="Ingredientes">
+            <RefinementList attribute="ingredients" limit={25}/>
+          </CollapsibleSection>
+          <CollapsibleSection title="Tiempo de Preparación">
+            <RefinementList attribute="preparation_time" sortBy={['name:desc']}/>
+          </CollapsibleSection>
+          <CollapsibleSection title="Cantidad de Porciones">
+            <RefinementList attribute="servings" sortBy={['name:desc']}/>
+          </CollapsibleSection>
         </div>
         <div className="results">
           <Hits hitComponent={Hit} />

@@ -9,8 +9,8 @@ header {
   background-color: #004d40;
   padding: 10px 20px;
   display: flex;
+  flex-direction: column;
   align-items: center;
-  justify-content: space-between;
 }
 
 header .title {
@@ -21,8 +21,55 @@ header .title {
 }
 
 header .ais-SearchBox {
-  flex-grow: 1;
-  margin-left: 20px;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.search-suggestions {
+  margin-top: 10px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.search-suggestions span {
+  margin-right: 10px;
+}
+
+.search-suggestions a {
+  color: #ff6f61;
+  margin-right: 10px;
+  text-decoration: none;
+}
+
+.search-suggestions a:hover {
+  text-decoration: underline;
+}
+
+.custom-search-box {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.custom-search-input {
+  padding: 10px 20px 10px 40px;
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  font-size: 1.2em; 
+}
+
+.search-icon {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  color: #ccc;
+  font-size: 1.2em;
 }
 
 main {
@@ -41,6 +88,7 @@ main {
   font-size: 1.2em;
   margin-bottom: 10px;
   color: #004d40;
+  text-align: center;
 }
 
 .results {
@@ -120,4 +168,38 @@ footer {
   padding: 10px 0;
   margin-top: 20px; 
   width: 100%;
+}
+
+.collapsible-section {
+  margin-bottom: 20px;
+}
+
+.collapsible-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
+
+.collapsible-header span {
+  font-size: 1em;
+  color: #004d40;
+}
+
+.collapsible-icon {
+  font-size: 1.2em;
+  color: #004d40;
+}
+
+.collapsible-content {
+  padding: 10px;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  border-radius: 0 0 4px 4px;
 }
