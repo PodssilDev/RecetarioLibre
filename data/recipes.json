@@ -1245,5 +1245,399 @@
         "preparation_time": "30 minutos",
         "servings": "10 porciones",
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2016/09/arroz-primavera-alta-570x458.jpg"
+    },
+    {
+        "title": "Panqueques",
+        "ingredients": [
+            "Huevos",
+            "Maizena",
+            "Leche",
+            "Aceite",
+            "Manjar",
+            "Azúcar flor"
+        ],
+        "url": "https://www.maizena.cl/r/panqueques.html/212138",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "5 minutos",
+        "servings": "6 porciones",
+        "image_url": "https://assets.unileversolutions.com/recipes-v3/212138-default.png?im=AspectCrop=(625,537);Resize=(625,537)"
+    },
+    {
+        "title": "Huevos pochados",
+        "ingredients": [
+            "Huevos",
+            "Aceite",
+            "Sal",
+            "Pimienta"
+        ],
+        "url": "https://www.gourmet.cl/recetas/huevos-pochados/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "10 minutos",
+        "servings": "2 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2021/09/Huevo-Pochado-iStock-1-570x458.jpg"
+    },
+    {
+        "title": "Shakshuka",
+        "ingredients": [
+            "Aceite",
+            "Cebolla",
+            "Ajo",
+            "Tomate",
+            "Ají",
+            "Comino",
+            "Pimentón",
+            "Canela",
+            "Sal",
+            "Pimienta",
+            "Huevos",
+            "Cilantro",
+            "Pan"
+        ],
+        "url": "https://www.gourmet.cl/recetas/shakshuka/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "45 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/Shakshuka-ajustada-web-570x458.jpg"
+    },
+    {
+        "title": "Dulce de membrillo",
+        "ingredients": [
+            "Membrillos",
+            "Azúcar",
+            "Canela",
+            "Limón",
+            "Agua"
+        ],
+        "url": "https://www.gourmet.cl/recetas/dulce-de-membrillo/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "90 minutos",
+        "servings": "8 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/05/Dulce-de-Membrillo-Web-570x458.jpg"
+    },
+    {
+        "title": "Granola",
+        "ingredients": [
+            "Avena",
+            "Almendras",
+            "Semillas",
+            "Canela",
+            "Sal",
+            "Vainilla",
+            "Aceite",
+            "Miel",
+            "Pasas"
+        ],
+        "url": "https://www.gourmet.cl/recetas/granola/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "25 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2021/04/iStock-942682730-1-570x400.jpg"
+    },
+    {
+        "title": "Leche dorada",
+        "ingredients": [
+            "Leche",
+            "Cúrcuma",
+            "Jengibre",
+            "Canela",
+            "Pimienta",
+            "Miel",
+            "Pasta"
+        ],
+        "url": "https://www.gourmet.cl/recetas/leche-dorada/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "10 minutos",
+        "servings": "10 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2020/06/iStock-1188944339-1-540x458.jpg"
+    },
+    {
+        "title": "Pudín de chía",
+        "ingredients": [
+            "Leche",
+            "Chía",
+            "Vainilla",
+            "Miel",
+            "Frutos",
+            "Ypgurt"
+
+        ],
+        "url": "https://www.gourmet.cl/recetas/pudin-de-chia/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "10 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2019/01/pudin-de-chia-editar.jpg"
+    },
+    {
+        "title": "Panqueques de avena y plátano",
+        "ingredients": [
+            "Avena",
+            "Plátano",
+            "Huevos",
+            "Leche",
+            "Canela",
+            "Aceite",
+            "Endulzante"
+        ],
+        "url": "https://www.gourmet.cl/recetas/panqueques-avena-platano/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "20 minutos",
+        "servings": "2 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2019/01/panqueques-avena-pl%C3%A1tano-video-retocada.jpg"
+    },
+    {
+        "title": "Panqueque de avema",
+        "ingredients": [
+            "Avena",
+            "Azúcar",
+            "Polvos",
+            "Bicarbonato",
+            "Yogurt",
+            "Leche",
+            "Huevos",
+            "Mantequilla",
+            "Vainilla"
+        ],
+        "url": "https://www.gourmet.cl/recetas/panqueques-de-avena/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "30 minutos",
+        "servings": "12 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2017/06/panqueques-avena.jpg"
+    },
+    {
+        "title": "Batido de frutas",
+        "ingredients": [
+            "Plátano",
+            "Fresas",
+            "Durazno",
+            "Yogurt",
+            "Naranja",
+            "Miel"
+        ],
+        "url": "https://www.gourmet.cl/recetas/batido-de-frutas/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "5 minutos",
+        "servings": "2 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2017/02/15.jpg"
+    },
+    {
+        "title": "Omelette de champiñones",
+        "ingredients": [   
+            "Huevos",
+            "Champiñones",
+            "Leche",
+            "Pimienta",
+            "Perejil",
+            "Aceite",
+            "Mantequilla"
+        ],
+        "url": "https://www.gourmet.cl/recetas/omelette-de-champinones/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Vegetariano"
+        ],
+        "preparation_time": "20 minutos",
+        "servings": "1 porciones",
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2016/09/iStock-1138257410-1-570x458.jpg"
+    },
+    {
+        "title": "Café pour over",
+        "ingredients": [
+            "Café",
+            "Agua"
+        ],
+        "url": "https://www.conasi.eu/blog/recetas/infusiones-y-tes/cafe-pour-over/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "10 minutos",
+        "servings": "3 porciones",
+        "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2024/02/cafe-pour-over-1.jpg"
+    },
+    {
+        "title": "Paté de tofu",
+        "ingredients": [
+            "Tofu",
+            "Germinados",
+            "Nueces",
+            "Tomates",
+            "Levadura",
+            "Aceite",
+            "Orégano",
+            "Ajo",
+            "Cebolla",
+            "Sal",
+            "Pimienta"
+        ],
+        "url": "https://www.conasi.eu/blog/recetas/pates-vegetales-y-salsas/pate-tofu-germinados/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "10 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2024/03/pate-de-tofu-y-germinados-3.jpg"
+    },
+    {
+        "title": "Yogurt casero",
+        "ingredients": [
+            "Leche",
+            "Fermento"
+        ],
+        "url": "https://www.conasi.eu/blog/recetas/fermentados/como-hacer-yogur-yogurtera/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "10 minutos",
+        "servings": "8 porciones",
+        "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2023/05/yogur-en-yogurtera-3.jpg"
+    },
+    {
+        "title": "Huevos rancheros",
+        "ingredients": [
+            "Cebolla",
+            "Ajo",
+            "Tomates",
+            "Chile",
+            "Huevos",
+            "Sal",
+            "Aceite",
+            "Tortillas",
+            "Cilantro"
+        ],
+        "url": "https://www.conasi.eu/blog/recetas/proteinas/huevos-rancheros/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "10 minutos",
+        "servings": "2 porciones",
+        "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2023/02/huevos-rancheros-1.jpg"
+    },
+    {
+        "title": "Batido verde de kombucha",
+        "ingredients": [
+            "Kombucha",
+            "Espinaca",
+            "Apio",
+            "Manzana",
+            "Piña",
+            "Jengibre",
+            "Limón",
+            "Perjil"
+        ],
+        "url": "https://www.conasi.eu/blog/recetas/batidos-recetas/batido-verde-de-kombucha/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Intolerante a la lactosa"
+        ],
+        "preparation_time": "1 minutos",
+        "servings": "2 porciones",
+        "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2018/05/batido-kombucha-miniatura.jpg"
+    },
+    {
+        "title": "Gachas de avena con frutas y maca",
+        "ingredients": [
+            "Avena",
+            "Frutas",
+            "Avellanas",
+            "Semillas",
+            "Maca"
+        ],
+        "url": "https://libredelacteos.com/recetas-sin-lacteos/mezcla-para-gachas-de-avena-con-frutas-y-maca/",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Intolerante a la lactosa"
+        ],
+        "preparation_time": "10 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://libredelacteos.com/wp-content/uploads/2016/05/IMG_7767-gachas-avena-750x400.jpg"
+    },
+    {
+        "title": "Hotcakes de plátano",
+        "ingredients": [
+            "Plátano",
+            "Huevos",
+            "Maizena",
+            "Aceite"
+        ],
+        "url": "https://cookpad.com/cl/recetas/17090400-hotcakes-de-platano-sin-gluten?ref=search&search_term=desayuno%20cel%C3%ADaco",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "20 minutos",
+        "servings": "4 porciones",
+        "image_url": "https://img-global.cpcdn.com/recipes/ba249b59f665021c/680x482cq70/hotcakes-de-platano-sin-gluten-foto-principal.webp"
+    },
+    {
+        "title": "Pan amasado sin gluten",
+        "ingredients": [
+            "Almidón",
+            "Harina",
+            "Polvos",
+            "Sal",
+            "Levadura",
+            "Azúcar",
+            "Aceite",
+            "Agua"
+        ],
+        "url": "https://cookpad.com/cl/recetas/17025948-panes-amasados-sin-gluten-veganos-y-muy-ricos?ref=search&search_term=desayuno%20cel%C3%ADaco",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "80 minutos",
+        "servings": "8 porciones",
+        "image_url": "https://cookpad.com/cl/recipe/images/bd8afd9e99f8ab04?image_region_id=23"
+    },
+    {
+        "title": "Churrascas sin gluten",
+        "ingredients": [
+            "Almidon",
+            "Harina",
+            "Polvos",
+            "Aceite",
+            "Sal"
+        ],
+        "url": "https://cookpad.com/cl/recetas/16377698-churrascas-sin-gluten-en-sarten-pan-pita-gluten-free-sin-horno?ref=search&search_term=desayuno%20cel%C3%ADaco",
+        "type": "Desayuno",
+        "dietary_restrictions": [
+            "Celiaco"
+        ],
+        "preparation_time": "50 minutos",
+        "servings": "8 porciones",
+        "image_url": "https://img-global.cpcdn.com/recipes/c1536d8227dc830e/680x482cq70/churrascas-sin-gluten-en-sarten-pan-pita-gluten-free-sin-horno-foto-principal.webp"
     }
 ]
