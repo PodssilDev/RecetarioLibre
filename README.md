@@ -5,7 +5,10 @@ Buscador de recetas alimenticias enfocado en restricciones alimenticias con dist
 * Búsqueda por nombre de ingrediente
 * Filtro por tipo de comida (Desayuno, Almuerzo, Snack, Cena, Postre, entre otros)
 * Filtro por restricción alimenticia (Vegano, Celiaco, Intolerante a la lactosa)
-* Highlighting, más de cien recetas disponibles y más!
+* Filtro por ingredientes
+* Filtro por tiempo de preparación
+* Filtro por cantidad de porciones
+* Highlighting, sugerencias de búsqueda, más de cien recetas disponibles y más!
 
 ## Técnologías
 
