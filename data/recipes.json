@@ -5,8 +5,8 @@
       "url": "https://ybarraentucocina.com/recetas/bizcocho-de-yogur-y-naranja",
       "type": "Desayuno",
       "dietary_restrictions": ["Celiaco"],
-      "preparation_time": "70 min",
-      "servings": "6 porciones",
+      "preparation_time": 70,
+      "servings": 6,
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2019/04/BIZCOCHO-YOGURdestacada.jpg"
     },
     {
@@ -15,8 +15,8 @@
       "url": "https://ybarraentucocina.com/recetas/tosta-de-aguacate-mozzarella-y-pesto",
       "type": "Desayuno",
       "dietary_restrictions": ["Celiaco", "Vegetariano"],
-      "preparation_time": "15 min",
-    "servings": "4 porciones",
+      "preparation_time": 15,
+    "servings": 4,
     "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-tosta-aguacate-aceite-oliva-virgen-extra-primera-cosecha.jpg"
     },
     {
@@ -25,8 +25,8 @@
       "url": "https://ybarraentucocina.com/recetas/smoothie-frutos-rojos-aove",
       "type": "Desayuno",
       "dietary_restrictions": ["Intolerante a la lactosa"],
-      "preparation_time": "10 min",
-    "servings": "2 porciones",
+      "preparation_time": 10,
+    "servings": 2,
     "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-smoothie-frutos-rojos-virgen-extra.jpg"
     },
     {
@@ -35,8 +35,8 @@
       "url": "https://ybarraentucocina.com/recetas/huevos-rellenos-de-ensalada-de-pollo",
       "type": "Almuerzo",
       "dietary_restrictions": ["Intolerante a la lactosa"],
-      "preparation_time": "30 min",
-      "servings": "4 porciones",
+      "preparation_time": 30,
+      "servings": 4,
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-huevos-rellenos-ensalada-pollo-mayonesa.jpg"
     },
     {
@@ -45,8 +45,8 @@
       "url": "https://ybarraentucocina.com/recetas/merluza-salsa-langostinos",
       "type": "Almuerzo",
       "dietary_restrictions": ["Celiaco"],
-      "preparation_time": "40 min",
-      "servings": "4 porciones",
+      "preparation_time": 40,
+      "servings": 4,
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-merluza-salsa-langostinos.jpg"
     },
     {
@@ -55,8 +55,8 @@
       "url": "https://www.gourmet.cl/recetas/hamburguesas-de-lentejas",
       "type": "Almuerzo",
       "dietary_restrictions": ["Celiaco", "Vegetariano"],
-      "preparation_time": "60 min",
-      "servings": "6 porciones",
+      "preparation_time": 60,
+      "servings": 6,
       "image_url": "https://www.gourmet.cl/wp-content/uploads/2017/01/Hamburguesa-de-Lentejas-ajustada-web-570x458.jpg"
     },
     {
@@ -65,8 +65,8 @@
       "url": "https://ybarraentucocina.com/recetas/patatas-a-la-marinera",
       "type": "Cena",
       "dietary_restrictions": ["Intolerante a la lactosa", "Vegetariano"],
-      "preparation_time": "45 min",
-      "servings": "4 porciones",
+      "preparation_time": 45,
+      "servings": 4,
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-guiso-patatas-marinera.jpg"
     },
     {
@@ -75,8 +75,8 @@
       "url": "https://ybarraentucocina.com/recetas/pollo-guisado-a-la-salsa-barbacoa-ybarra",
       "type": "Cena",
       "dietary_restrictions": ["Celiaco"],
-      "preparation_time": "60 min",
-      "servings": "4 porciones",
+      "preparation_time": 60,
+      "servings": 4,
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-pollo-barbacoa.jpg"
     },
     {
@@ -85,8 +85,8 @@
       "url": "https://ybarraentucocina.com/recetas/canelones-de-calabacin-y-verduras",
       "type": "Cena",
       "dietary_restrictions": ["Vegetariano"],
-      "preparation_time": "50 min",
-      "servings": "4 porciones",
+      "preparation_time": 50,
+      "servings": 4,
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-canelones-calabacin-verduras-salsa-ligera.jpg"
     },
     {
@@ -95,8 +95,8 @@
       "url": "https://ybarraentucocina.com/recetas/bizcocho-de-canela-y-limon",
       "type": "Merienda",
       "dietary_restrictions": ["Celiaco"],
-      "preparation_time": "80 min",
-      "servings": "8 porciones",
+      "preparation_time": 80,
+      "servings": 8,
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-canela.jpg"
     },
     {
@@ -105,8 +105,8 @@
       "url": "https://ybarraentucocina.com/recetas/bunuelos-de-espinacas",
       "type": "Snack",
       "dietary_restrictions": ["Celiaco", "Vegetariano"],
-      "preparation_time": "30 min",
-      "servings": "4 porciones",
+      "preparation_time": 30,
+      "servings": 4,
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-aperitivo-bunuelo-espinacas.jpg"
     },
     {
@@ -115,8 +115,8 @@
         "url": "https://ybarraentucocina.com/recetas/patatas-fritas-gratinadas-con-gaucha",
         "type": "Entrante",
         "dietary_restrictions": [],
-        "preparation_time": "20 min",
-        "servings": "4 porciones",
+        "preparation_time": 20,
+        "servings": 4,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-patatas-gratinadas-salsa-gaucha.jpg"
     },
     {
@@ -125,8 +125,8 @@
       "url": "https://ybarraentucocina.com/recetas/pastel-de-salmon-pan-de-molde-y-mayonesa-ybarra",
       "type": "Snack",
       "dietary_restrictions": ["Celiaco"],
-      "preparation_time": "45 min",
-      "servings": "6 porciones",
+      "preparation_time": 45,
+      "servings": 6,
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-pastel-salmon-mayonesa.jpg"
     },
     {
@@ -135,8 +135,8 @@
       "url": "https://ybarraentucocina.com/recetas/cocktail-espuma-mayonesa-ybarra",
       "type": "Snack",
       "dietary_restrictions": ["Intolerante a la lactosa"],
-      "preparation_time": "15 min",
-      "servings": "2 porciones",
+      "preparation_time": 15,
+      "servings": 2,
       "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-cocktail-pulpo-mayonesa.jpg"
     },
     {
@@ -145,8 +145,8 @@
         "url": "https://ybarraentucocina.com/recetas/tarta-fantasma-para-halloween",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "60 min",
-        "servings": "8 porciones",
+        "preparation_time": 60,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2021/10/recetas-ybarra-tarta-fantasma-halloween-aceite-495x400.jpg"
     },
     {
@@ -155,8 +155,8 @@
         "url": "https://ybarraentucocina.com/recetas/tarta-para-halloween-cementerio-abandonado-de-chocolate/",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "90 min",
-        "servings": "10 porciones",
+        "preparation_time": 90,
+        "servings": 10,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2021/09/recetas-ybarra-tarta-chocolate-halloween-cementerio-abandonado-495x400.jpg"
     },
     {
@@ -165,8 +165,8 @@
         "url": "https://ybarraentucocina.com/recetas/tarta-de-galletas-queso-y-chocolate",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "70 min",
-        "servings": "8 porciones",
+        "preparation_time": 70,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-tarta-chocolate-helado-queso-495x400.jpg"
     },
     {
@@ -175,8 +175,8 @@
         "url": "https://ybarraentucocina.com/recetas/tarta-de-calabaza-y-chocolate",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "80 min",
-        "servings": "8 porciones",
+        "preparation_time": 80,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-tarta-calabaza-chocolate-virgen-extra-halloween-495x400.jpg"
     },
     {
@@ -185,8 +185,8 @@
         "url": "https://ybarraentucocina.com/recetas/tarta-de-flan-y-chocolate",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "75 min",
-        "servings": "10 porciones",
+        "preparation_time": 75,
+        "servings": 10,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-tarta-flan-chocolate-495x400.jpg"
     },
     {
@@ -195,8 +195,8 @@
         "url": "https://ybarraentucocina.com/recetas/polo-de-fruta-con-chocolate",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano", "Celiaco"],
-        "preparation_time": "15 min",
-        "servings": "6 porciones",
+        "preparation_time": 15,
+        "servings": 6,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/POLOS_PLATANO_CHOCOLATE-495x400.jpg"
     },
     {
@@ -205,8 +205,8 @@
         "url": "https://ybarraentucocina.com/recetas/smoothie-de-platano-y-mango",
         "type": "Bebida",
         "dietary_restrictions": ["Vegetariano", "Celiaco"],
-        "preparation_time": "10 min",
-        "servings": "2 porciones",
+        "preparation_time": 10,
+        "servings": 2,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-smoothie-495x400.jpg"
     },
     {
@@ -215,8 +215,8 @@
         "url": "https://ybarraentucocina.com/recetas/bizcocho-de-turron",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "60 min",
-        "servings": "8 porciones",
+        "preparation_time": 60,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/11/recetas-ybarra-bizcocho-de-turron-aceite-495x400.jpg"
     },
     {
@@ -225,8 +225,8 @@
         "url": "https://ybarraentucocina.com/recetas/bizcocho-de-limon",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "50 min",
-        "servings": "8 porciones",
+        "preparation_time": 50,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-limon-495x400.jpg"
     },
     {
@@ -235,8 +235,8 @@
         "url": "https://ybarraentucocina.com/recetas/bizcocho-de-manzana-zanahoria-y-canela",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "60 min",
-        "servings": "8 porciones",
+        "preparation_time": 60,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-manzana-zanahoria-495x400.jpg"
     },
     {
@@ -245,8 +245,8 @@
         "url": "https://ybarraentucocina.com/recetas/bizcocho-de-yogur-y-naranja",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "45 min",
-        "servings": "8 porciones",
+        "preparation_time": 45,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-yogur-naranja-495x400.jpg"
     },
     {
@@ -255,8 +255,8 @@
         "url": "https://ybarraentucocina.com/recetas/bizcocho-de-pera",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "60 min",
-        "servings": "8 porciones",
+        "preparation_time": 60,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-pera-495x400.jpg"
     },
     {
@@ -265,8 +265,8 @@
         "url": "https://ybarraentucocina.com/recetas/bizcocho-de-pina",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "50 min",
-        "servings": "8 porciones",
+        "preparation_time": 50,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-pina-495x400.jpg"
     },
     {
@@ -275,8 +275,8 @@
         "url": "https://ybarraentucocina.com/recetas/bizcocho-de-chocolate-sin-harina",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "45 min",
-        "servings": "8 porciones",
+        "preparation_time": 45,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-bizcocho-sin-harina-495x400.jpg"
     },
     {
@@ -285,8 +285,8 @@
         "url": "https://ybarraentucocina.com/recetas/milhojas-de-chocolate-y-frutos-secos",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano", "Celiaco"],
-        "preparation_time": "30 min",
-        "servings": "6 porciones",
+        "preparation_time": 30,
+        "servings": 6,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/11/recetas-ybarra-milhojas-chocolate-aceite-virgen-extra-495x400.jpg"
     },
     {
@@ -295,8 +295,8 @@
         "url": "https://ybarraentucocina.com/recetas/mousse-de-chocolate-sin-nata",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano", "Celiaco"],
-        "preparation_time": "20 min",
-        "servings": "4 porciones",
+        "preparation_time": 20,
+        "servings": 4,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-como-hacer-mousse-chocolate-virgen-extra-sin-huevo-495x400.jpg"
     },
     {
@@ -305,8 +305,8 @@
         "url": "https://ybarraentucocina.com/recetas/vasitos-de-fresa-y-chocolate",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano", "Celiaco"],
-        "preparation_time": "20 min",
-        "servings": "4 porciones",
+        "preparation_time": 20,
+        "servings": 4,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-vasitos-fresa-chocolate-495x400.jpg"
     },
     {
@@ -315,8 +315,8 @@
         "url": "https://ybarraentucocina.com/recetas/copitas-de-arroz-con-leche-condensada-y-chocolate",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano", "Celiaco"],
-        "preparation_time": "45 min",
-        "servings": "6 porciones",
+        "preparation_time": 45,
+        "servings": 6,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-flan-leche-condensada-495x400.jpg"
     },
     {
@@ -325,8 +325,8 @@
         "url": "https://ybarraentucocina.com/recetas/crepes-de-turron-de-chocolate",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "30 min",
-        "servings": "4 porciones",
+        "preparation_time": 30,
+        "servings": 4,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-crepes-turron-aceite-oliva-afrutado-495x400.jpg"
     },
     {
@@ -335,8 +335,8 @@
         "url": "https://ybarraentucocina.com/recetas/brownie-cheesecake-frambuesas",
         "type": "Postre",
         "dietary_restrictions": ["Vegetariano"],
-        "preparation_time": "60 min",
-        "servings": "8 porciones",
+        "preparation_time": 60,
+        "servings": 8,
         "image_url": "https://ybarraentucocina.com/wp-content/uploads/2020/10/recetas-ybarra-brownie-cheese-cake-tarta-queso-frambuesa-495x400.jpg"
     },
     {
@@ -359,8 +359,8 @@
           "dietary_restrictions": [
               "Celiaco"
           ],
-          "preparation_time": "180 min",
-          "servings": "12 porciones",
+          "preparation_time": 180,
+          "servings": 12,
           "image_url": "https://img-global.cpcdn.com/recipes/323545c3cf2e99a5/640x640sq70/photo.webp"
       },
       {
@@ -378,8 +378,8 @@
           "dietary_restrictions": [
               "Celiaco"
           ],
-          "preparation_time": "720 min",
-          "servings": "4 porciones",
+          "preparation_time": 720,
+          "servings": 4,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2024/02/salmon-marinado-casero.jpg"
       },
       {
@@ -398,8 +398,8 @@
           "dietary_restrictions": [
               "Celiaco"
           ],
-          "preparation_time": "30 min",
-          "servings": "4 porciones",
+          "preparation_time": 30,
+          "servings": 4,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2024/03/Alcachofas-al-horno-con-queso.jpg"
       },
       {
@@ -420,8 +420,8 @@
           "dietary_restrictions": [
               "Celiaco"
           ],
-          "preparation_time": "60 min",
-          "servings": "2 porciones",
+          "preparation_time": 60,
+          "servings": 2,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2023/12/calabacines-rellenos-de-pollo-y-champinones.jpg"
       },
       {
@@ -437,8 +437,8 @@
           "dietary_restrictions": [
               "Celiaco"
           ],
-          "preparation_time": "20 min",
-          "servings": "4 porciones",
+          "preparation_time": 20,
+          "servings": 4,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2023/10/Pechugas-de-pollo-con-bacon-rellenas-1.jpg"
       },
       {
@@ -458,8 +458,8 @@
           "dietary_restrictions": [
               "Celiaco"
           ],
-          "preparation_time": "60 min",
-          "servings": "4 porciones",
+          "preparation_time": 60,
+          "servings": 4,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2023/01/Berenjenas-rellenas-de-atun-al-horno-1000x563.jpg"
       },
       {
@@ -480,8 +480,8 @@
           "dietary_restrictions": [
               "Intolerante a la lactosa"
           ],
-          "preparation_time": "30 min",
-          "servings": "4 porciones",
+          "preparation_time": 30,
+          "servings": 4,
           "image_url": "https://nutira.es/wp-content/uploads/2017/01/receta-sin-lactosa-crema-de-calabacin.png"
       },
       {
@@ -502,8 +502,8 @@
           "dietary_restrictions": [
               "Intolerante a la lactosa"
           ],
-          "preparation_time": "30 min",
-          "servings": "4 porciones",
+          "preparation_time": 30,
+          "servings": 4,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2018/10/Pollo-al-curry-con-leche-de-coco.jpg"
       },
       {
@@ -522,8 +522,8 @@
           "dietary_restrictions": [
               "Intolerante a la lactosa"
           ],
-          "preparation_time": "20 min",
-          "servings": "6 porciones",
+          "preparation_time": 20,
+          "servings": 6,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2019/04/salteado-de-verdurascon-pollo-al-curry.jpg"
       },
       {
@@ -544,8 +544,8 @@
           "dietary_restrictions": [
               "Intolerante a la lactosa"
           ],
-          "preparation_time": "60 min",
-          "servings": "4 porciones",
+          "preparation_time": 60,
+          "servings": 4,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2019/01/Pollo-al-chilindron.jpg"
       },
       {
@@ -567,8 +567,8 @@
           "dietary_restrictions": [
               "Intolerante a la lactosa"
           ],
-          "preparation_time": "30 min",
-          "servings": "2 porciones",
+          "preparation_time": 30,
+          "servings": 2,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2023/11/Arroz-al-curry-1000x563.jpg"
       },
       {
@@ -588,8 +588,8 @@
           "dietary_restrictions": [
               "Intolerante a la lactosa"
           ],
-          "preparation_time": "35 min",
-          "servings": "4 porciones",
+          "preparation_time": 35,
+          "servings": 4,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2023/05/vichyssoise-receta-facil-1000x563.jpg"
       },
       {
@@ -607,8 +607,8 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "20 min",
-          "servings": "4 porciones",
+          "preparation_time": 20,
+          "servings": 4,
           "image_url": "https://www.cocinacaserayfacil.net/wp-content/uploads/2021/11/Espagueti-a-la-carbonara.jpg"
       },
       {
@@ -630,8 +630,8 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "45 min",
-          "servings": "8 porciones",
+          "preparation_time": 45,
+          "servings": 8,
           "image_url": "https://www.recetasnestle.cl/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/4716ca31a6f16f8c918b9d08fdf606c5.webp?itok=lyqgbruy"
       },
       {
@@ -651,8 +651,8 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "65 min",
-          "servings": "6 porciones",
+          "preparation_time": 65,
+          "servings": 6,
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2023/11/TORTILLA.jpg"
       },
       {
@@ -671,8 +671,8 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "65 min",
-          "servings": "4 porciones",
+          "preparation_time": 65,
+          "servings": 4,
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/gnocci-caprese-one-pan-ajustada-web-570x458.jpg"
       },
       {
@@ -695,8 +695,8 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "45 min",
-          "servings": "2 porciones",
+          "preparation_time": 45,
+          "servings": 2,
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/curry-de-garbanzos-ajustada-web-570x458.jpg"
       },
       {
@@ -718,8 +718,8 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "60 min",
-          "servings": "4 porciones",
+          "preparation_time": 60,
+          "servings": 4,
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/bolognesa-de-lentejas-ajustada-web-570x458.jpg"
       },
       {
@@ -739,8 +739,8 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "70 min",
-          "servings": "2 porciones",
+          "preparation_time": 70,
+          "servings": 2,
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/camote-relleno-ajustada-web-570x458.jpg"
       },
       {
@@ -761,8 +761,8 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "60 min",
-          "servings": "4 porciones",
+          "preparation_time": 60,
+          "servings": 4,
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/papas-a-la-huancaina-ajustada-web-570x458.jpg"
       },
       {
@@ -785,8 +785,8 @@
           "dietary_restrictions": [
               "Vegetariano"
           ],
-          "preparation_time": "15 min",
-          "servings": "8 porciones",
+          "preparation_time": 15,
+          "servings": 8,
           "image_url": "https://www.gourmet.cl/wp-content/uploads/2018/04/foto-editada-2-1.jpg"
       },
       {
@@ -804,8 +804,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "23 min",
-        "servings": "2 porciones",
+        "preparation_time": 23,
+        "servings": 2,
         "image_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c6d2c595-2f8f-4964-a776-5e595654c0e5/Fingers-boniato-especias-queso-sin-gluten-feta/public"
     },
     {
@@ -824,8 +824,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "25 min",
-        "servings": "2 porciones",
+        "preparation_time": 25,
+        "servings": 2,
         "image_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/1f20cc67-c94d-4d56-9cc9-60f6e97c9a26/Endibia-beicon-queso-sin-gluten-servir/w=640,quality=90,fit=scale-down"
     },
     {
@@ -844,8 +844,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "20 min",
-        "servings": "4 porciones",
+        "preparation_time": 20,
+        "servings": 4,
         "image_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/604702e7-f2c6-4012-82f5-88f5ebf7b8a0/Ensalada-brocoli-judia-manzana-sin-gluten/w=640,quality=90,fit=scale-down"
     },
     {
@@ -869,8 +869,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "40 min",
-        "servings": "1 porción",
+        "preparation_time": 40,
+        "servings": 1,
         "image_url": "https://content.cuerpomente.com/medio/2022/04/04/hummus-de-lentejas_2de1d386_900x600.jpg"
     },
     {
@@ -896,8 +896,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "35 min",
-        "servings": "4 porciones",
+        "preparation_time": 35,
+        "servings": 4,
         "image_url": "https://content.cuerpomente.com/medio/2022/04/04/rollitos-vietnamitas-con-tofu-crujiente_44773106_900x600.jpg"
     },
     {
@@ -925,8 +925,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "45 min",
-        "servings": "4 porciones",
+        "preparation_time": 45,
+        "servings": 4,
         "image_url": "https://content.cuerpomente.com/medio/2022/04/04/ensalada-de-garbanzos-y-coliflor_b85e5860_900x600.jpg"
     },
     {
@@ -948,8 +948,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "40 min",
-        "servings": "4 porciones",
+        "preparation_time": 40,
+        "servings": 4,
         "image_url": "https://content.cuerpomente.com/medio/2022/04/04/fritters-de-calabacin-con-salsa-de-yogur_bd6942a9_900x600.jpg"
     },
     {
@@ -969,8 +969,8 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "10 min",
-        "servings": "2 porciones",
+        "preparation_time": 10,
+        "servings": 2,
         "image_url": "https://i.blogs.es/c10d18/ensalada_atun/1024_2000.jpg"
     },
     {
@@ -988,8 +988,8 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "55 min",
-        "servings": "6 porciones",
+        "preparation_time": 55,
+        "servings": 6,
         "image_url": "https://i.blogs.es/815abd/ensaladilla-rusa/1024_2000.jpg"
     },
     {
@@ -1008,8 +1008,8 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "30 min",
-        "servings": "4 porciones",
+        "preparation_time": 30,
+        "servings": 4,
         "image_url": "https://i.blogs.es/84d2a1/crema-essau/1024_2000.jpg"
     },
     {
@@ -1031,8 +1031,8 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "80 min",
-        "servings": "4 porciones",
+        "preparation_time": 80,
+        "servings": 4,
         "image_url": "https://i.blogs.es/d6e7b2/gazpachuelo/1024_2000.jpg"
     },
     {
@@ -1051,8 +1051,8 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "135 min",
-        "servings": "6 porciones",
+        "preparation_time": 135,
+        "servings": 6,
         "image_url": "https://i.blogs.es/1e0e14/caldo-casero-pollo-directo-paladar-pakus/1024_2000.jpg"
     },
     {
@@ -1074,8 +1074,8 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "55 min",
-        "servings": "4 porciones",
+        "preparation_time": 55,
+        "servings": 4,
         "image_url": "https://i.blogs.es/d834ec/crema-coliflor.cremosa/1024_2000.jpg"
     },
     {
@@ -1101,8 +1101,8 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "40 min",
-        "servings": "4 porciones",
+        "preparation_time": 40,
+        "servings": 4,
         "image_url": "https://i.blogs.es/4dcbd0/crema-calabaza-rucula1/1024_2000.jpg"
     },
     {
@@ -1123,8 +1123,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "30 min",
-        "servings": "6 porciones",
+        "preparation_time": 30,
+        "servings": 6,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2016/09/Lasana-de-Berenjenas-web-570x458.jpg"
     },
     {
@@ -1144,8 +1144,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "20 min",
-        "servings": "4 porciones",
+        "preparation_time": 20,
+        "servings": 4,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2011/04/tortilla_papas.jpg"
     },
     {
@@ -1171,8 +1171,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "50 min",
-        "servings": "6 porciones",
+        "preparation_time": 50,
+        "servings": 6,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/01/risotto_video-retocada_DSC05353.jpg"
     },
     {
@@ -1198,8 +1198,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "40 min",
-        "servings": "4 porciones",
+        "preparation_time": 40,
+        "servings": 4,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2013/03/guiso-de-verduras.jpg"
     },
     {
@@ -1218,8 +1218,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "30 min",
-        "servings": "4 porciones",
+        "preparation_time": 30,
+        "servings": 4,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2012/07/pure-de-zapallo-al-cardamomo.jpg"
     },
     {
@@ -1242,8 +1242,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "30 min",
-        "servings": "10 porciones",
+        "preparation_time": 30,
+        "servings": 10,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2016/09/arroz-primavera-alta-570x458.jpg"
     },
     {
@@ -1261,8 +1261,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "5 min",
-        "servings": "6 porciones",
+        "preparation_time": 5,
+        "servings": 6,
         "image_url": "https://assets.unileversolutions.com/recipes-v3/212138-default.png?im=AspectCrop=(625,537);Resize=(625,537)"
     },
     {
@@ -1278,8 +1278,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "10 min",
-        "servings": "2 porciones",
+        "preparation_time": 10,
+        "servings": 2,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2021/09/Huevo-Pochado-iStock-1-570x458.jpg"
     },
     {
@@ -1304,8 +1304,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "45 min",
-        "servings": "4 porciones",
+        "preparation_time": 45,
+        "servings": 4,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/08/Shakshuka-ajustada-web-570x458.jpg"
     },
     {
@@ -1322,8 +1322,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "90 min",
-        "servings": "8 porciones",
+        "preparation_time": 90,
+        "servings": 8,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2022/05/Dulce-de-Membrillo-Web-570x458.jpg"
     },
     {
@@ -1344,8 +1344,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "25 min",
-        "servings": "4 porciones",
+        "preparation_time": 25,
+        "servings": 4,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2021/04/iStock-942682730-1-570x400.jpg"
     },
     {
@@ -1364,8 +1364,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "10 min",
-        "servings": "10 porciones",
+        "preparation_time": 10,
+        "servings": 10,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2020/06/iStock-1188944339-1-540x458.jpg"
     },
     {
@@ -1384,8 +1384,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "10 min",
-        "servings": "4 porciones",
+        "preparation_time": 10,
+        "servings": 4,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2019/01/pudin-de-chia-editar.jpg"
     },
     {
@@ -1404,8 +1404,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "20 min",
-        "servings": "2 porciones",
+        "preparation_time": 20,
+        "servings": 2,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2019/01/panqueques-avena-pl%C3%A1tano-video-retocada.jpg"
     },
     {
@@ -1426,8 +1426,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "30 min",
-        "servings": "12 porciones",
+        "preparation_time": 30,
+        "servings": 12,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2017/06/panqueques-avena.jpg"
     },
     {
@@ -1445,8 +1445,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "5 min",
-        "servings": "2 porciones",
+        "preparation_time": 5,
+        "servings": 2,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2017/02/15.jpg"
     },
     {
@@ -1465,8 +1465,8 @@
         "dietary_restrictions": [
             "Vegetariano"
         ],
-        "preparation_time": "20 min",
-        "servings": "1 porción",
+        "preparation_time": 20,
+        "servings": 1,
         "image_url": "https://www.gourmet.cl/wp-content/uploads/2016/09/iStock-1138257410-1-570x458.jpg"
     },
     {
@@ -1480,8 +1480,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "10 min",
-        "servings": "3 porciones",
+        "preparation_time": 10,
+        "servings": 3,
         "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2024/02/cafe-pour-over-1.jpg"
     },
     {
@@ -1504,8 +1504,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "10 min",
-        "servings": "4 porciones",
+        "preparation_time": 10,
+        "servings": 4,
         "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2024/03/pate-de-tofu-y-germinados-3.jpg"
     },
     {
@@ -1519,8 +1519,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "10 min",
-        "servings": "8 porciones",
+        "preparation_time": 10,
+        "servings": 8,
         "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2023/05/yogur-en-yogurtera-3.jpg"
     },
     {
@@ -1541,8 +1541,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "10 min",
-        "servings": "2 porciones",
+        "preparation_time": 10,
+        "servings": 2,
         "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2023/02/huevos-rancheros-1.jpg"
     },
     {
@@ -1562,8 +1562,8 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "2 min",
-        "servings": "2 porciones",
+        "preparation_time": 2,
+        "servings": 2,
         "image_url": "https://www.conasi.eu/blog/wp-content/uploads/2018/05/batido-kombucha-miniatura.jpg"
     },
     {
@@ -1580,8 +1580,8 @@
         "dietary_restrictions": [
             "Intolerante a la lactosa"
         ],
-        "preparation_time": "10 min",
-        "servings": "4 porciones",
+        "preparation_time": 10,
+        "servings": 4,
         "image_url": "https://deliciaskitchen.b-cdn.net/wp-content/uploads/2021/11/gachas-de-avena-porridge-1170x781.jpg"
     },
     {
@@ -1597,8 +1597,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "20 min",
-        "servings": "4 porciones",
+        "preparation_time": 20,
+        "servings": 4,
         "image_url": "https://img-global.cpcdn.com/recipes/ba249b59f665021c/680x482cq70/hotcakes-de-platano-sin-gluten-foto-principal.webp"
     },
     {
@@ -1618,8 +1618,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "80 min",
-        "servings": "8 porciones",
+        "preparation_time": 80,
+        "servings": 8,
         "image_url": "https://img-global.cpcdn.com/recipes/bd8afd9e99f8ab04/680x482cq70/panes-amasados-sin-gluten-veganos-y-muy-ricos-foto-principal.webp"
     },
     {
@@ -1636,8 +1636,8 @@
         "dietary_restrictions": [
             "Celiaco"
         ],
-        "preparation_time": "50 min",
-        "servings": "8 porciones",
+        "preparation_time": 50,
+        "servings": 8,
         "image_url": "https://img-global.cpcdn.com/recipes/c1536d8227dc830e/680x482cq70/churrascas-sin-gluten-en-sarten-pan-pita-gluten-free-sin-horno-foto-principal.webp"
     }
 ]

@@ -206,4 +206,68 @@ footer {
   border-radius: 0 0 4px 4px;
 }
 
+
+/* Estilos específicos para el filtro de tiempo de preparación */
+.custom-refinement-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.custom-refinement-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.custom-refinement-list li:last-child {
+  border-bottom: none;
+}
+
+.custom-refinement-list input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+.custom-refinement-list label {
+  cursor: pointer;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.custom-refinement-list input[type="checkbox"]:checked + label {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Estilos comunes para todos los filtros excepto el de tiempo de preparación */
+.general-refinement-list ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.general-refinement-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.general-refinement-list li:last-child {
+  border-bottom: none;
+}
+
+.general-refinement-list input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+.general-refinement-list label {
+  cursor: pointer;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.general-refinement-list input[type="checkbox"]:checked + label {
+  font-weight: bold;
+  color: #333;
+}
+
+
 /*# sourceMappingURL=/app.a6a4d504.css.map */

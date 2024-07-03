@@ -25,8 +25,8 @@ module.exports = (async () => {
       { name: 'url', type: 'string' },
       { name: 'type', type: 'string', facet: true },
       { name: 'dietary_restrictions', type: 'string[]', facet: true },
-      { name: 'preparation_time', type: 'string', facet: true },
-      { name: 'servings', type: 'string', facet: true },
+      { name: 'preparation_time', type: 'int32', facet: true},
+      { name: 'servings', type: 'int32', facet: true },
       { name: 'image_url', type: 'string' }
     ]
   };

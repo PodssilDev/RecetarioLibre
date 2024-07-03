@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
 import ReactDOM from 'react-dom';
 import TypesenseInstantSearchAdapter from 'typesense-instantsearch-adapter';
-import { InstantSearch, SearchBox, Hits, RefinementList, Pagination, Configure, Highlight, connectSearchBox } from 'react-instantsearch-dom';
+import { InstantSearch, SearchBox, Hits, RefinementList, Pagination, Configure, Highlight, connectSearchBox,  connectRefinementList } from 'react-instantsearch-dom';
 import Collapsible from 'react-collapsible';
 import 'instantsearch.css/themes/algolia-min.css';
 import './index.css';
@@ -41,10 +41,10 @@ const Hit = ({ hit }) => (
         <FaLeaf /> {hit.dietary_restrictions.join(', ')}
       </div>
       <div className="hit-preparation-time">
-        <FaClock /> Tiempo de preparación: {hit.preparation_time}
+        <FaClock /> Tiempo de preparación: {hit.preparation_time} mins
       </div>
       <div className="hit-servings">
-        <FaUserFriends /> Porciones: {hit.servings}
+        <FaUserFriends /> Porciones: {hit.servings} {hit.servings > 1 ? 'porciones' : 'porción'}
       </div>
       <a href={hit.url} target="_blank" rel="noopener noreferrer" className="hit-url">
         Ver Receta
@@ -76,7 +76,7 @@ const SearchBoxWithSuggestions = connectSearchBox(({ currentRefinement, refine }
       <CustomSearchBox currentRefinement={currentRefinement} refine={refine} />
       <div className="search-suggestions">
         <span>Prueba: </span>
-        {['Huevo', 'Ensalada', 'Curry', 'Sin gluten', 'Limon', 'Lentejas'].map((suggestion, index) => (
+        {['Huevo', 'Ensalada', 'Curry', 'Sin gluten', 'Limón', 'Lentejas'].map((suggestion, index) => (
           <a key={index} href="#" onClick={(e) => { e.preventDefault(); handleSuggestionClick(suggestion); }}>
             {suggestion}
           </a>
@@ -97,10 +97,35 @@ const CollapsibleSection = ({ title, children }) => {
         <span>{title}</span>
         <span className="collapsible-icon">{isOpen ? <FaChevronUp /> : <FaChevronDown />}</span>
       </div>
-      {isOpen && <div className="collapsible-content">{children}</div>}
+      {isOpen && <div className="collapsible-content general-refinement-list">{children}</div>}
     </div>
   );
 };
+
+const CustomRefinementList = ({ items, refine }) => {
+  const sortedItems = items.sort((a, b) => b.label.localeCompare(a.label));
+
+  return (
+      <ul className="custom-refinement-list">
+          {sortedItems.map(item => (
+              <li key={item.label}>
+                  <label>
+                      <input
+                          type="checkbox"
+                          checked={item.isRefined}
+                          onChange={() => refine(item.value)}
+                      />
+                      {item.label} ({item.count})
+                  </label>
+              </li>
+          ))}
+      </ul>
+  );
+};
+
+
+const ConnectedRefinementList = connectRefinementList(CustomRefinementList);
+
 
 const App = () => (
   <div>
@@ -120,13 +145,13 @@ const App = () => (
             <RefinementList attribute="dietary_restrictions" />
           </CollapsibleSection>
           <CollapsibleSection title="Ingredientes">
-            <RefinementList attribute="ingredients" limit={25}/>
+            <RefinementList attribute="ingredients" limit={12}/>
           </CollapsibleSection>
-          <CollapsibleSection title="Tiempo de Preparación">
-            <RefinementList attribute="preparation_time" sortBy={['name:desc']}/>
+          <CollapsibleSection title="Tiempo de Preparación (Minutos)">
+          <ConnectedRefinementList attribute="preparation_time" />
           </CollapsibleSection>
           <CollapsibleSection title="Cantidad de Porciones">
-            <RefinementList attribute="servings" sortBy={['name:desc']}/>
+          <ConnectedRefinementList attribute="servings" />
           </CollapsibleSection>
         </div>
         <div className="results">
