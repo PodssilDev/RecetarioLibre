@@ -1659,5 +1659,37 @@
         "preparation_time": 40,
         "servings": 12,
         "image_url": "https://www.recetasnestle.cl/sites/default/files/styles/recipe_detail_desktop/public/srh_recipes/ca0c7ec4a276f9c70ab4f35e26da3edc.webp?itok=j_y-Nb-t"
+      },
+      {
+        "title": "Queque sin gluten y sin leche ",
+        "ingredients": ["Harina", "Huevos", "Arroz", "Aceite", "Sal", "Limón", "Vainilla"],
+        "url": "https://cookpad.com/cl/recetas/22662926-queque-sin-gluten-y-sin-leche?ref=search&search_term=sin%20gluten",
+        "type": "Postre",
+        "dietary_restrictions": ["Celiaco", "Intolerante a la lactosa"],
+        "preparation_time": 15,
+        "servings": 8,
+        "image_url": "https://img-global.cpcdn.com/recipes/d739efd44281d189/680x482cq70/queque-sin-gluten-y-sin-leche-foto-principal.webp"
+      },
+      {
+        "title": "Sopa de Miso - Vegan",
+        "ingredients": ["Noodles", "Miso", "Agua", "Alga", "Tofu", "Cebollin"],
+        "url": "https://cookpad.com/cl/recetas/22662926-queque-sin-gluten-y-sin-leche?ref=search&search_term=sin gluten",
+        "type": "Almuerzo",
+        "dietary_restrictions": ["Vegetariano"],
+        "preparation_time": 10,
+        "servings": 3,
+        "image_url": "https://img-global.cpcdn.com/recipes/270f00602c4e054a/680x482cq70/sopa-de-miso-vegan-foto-principal.webp"
+      },
+
+      {
+        "title": "Base de canapés, sin gluten ",
+        "ingredients": ["Polenta", "Agua", "Sal", "Queso", "Aceite"],
+        "url": "https://cookpad.com/cl/recetas/22662926-queque-sin-gluten-y-sin-leche?ref=search&search_term=sin gluten",
+        "type": "Postre",
+        "dietary_restrictions": ["Celiaco"],
+        "preparation_time": 45,
+        "servings": 4,
+        "image_url": "https://img-global.cpcdn.com/recipes/c37baffb751eb550/680x482cq70/base-de-canapes-sin-gluten-foto-principal.webp"
       }
+
 ]
