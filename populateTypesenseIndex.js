@@ -1,8 +1,3 @@
-/* eslint-disable */
-
-// Start Typesense server with `npm run typesenseServer`
-// Then run `npm run populateTypesenseIndex` or `node populateTypesenseIndex.js`
-
 const Typesense = require('typesense');
 
 module.exports = (async () => {

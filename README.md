@@ -1,4 +1,4 @@
-# RecetarioLibre
+# Recetario Libre
 Buscador de recetas alimenticias enfocado en restricciones alimenticias con distintas opciones de filtro y búsqueda.
 
 * Búsqueda por nombre de receta

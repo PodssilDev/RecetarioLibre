@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom';
 import TypesenseInstantSearchAdapter from 'typesense-instantsearch-adapter';
 import { InstantSearch, SearchBox, Hits, RefinementList, Pagination, Configure, Highlight, connectSearchBox, connectRefinementList } from 'react-instantsearch-dom';
 import Modal from 'react-modal';
-import Collapsible from 'react-collapsible';
 import 'instantsearch.css/themes/algolia-min.css';
 import './index.css';
 import { FaClock, FaUserFriends, FaUtensils, FaCarrot, FaChevronDown, FaChevronUp, FaSearch, FaGithub } from 'react-icons/fa';
@@ -76,7 +75,7 @@ const Hit = ({ hit }) => {
 
 const CustomSearchBox = ({ currentRefinement, refine }) => {
   const handleInputChange = (event) => {
-    const validChars = /^[a-zA-Z0-9 '|"]*$/;
+    const validChars = /^[a-zA-Z0-9 '|" ñ]*$/;
     const input = event.currentTarget.value;
     if (validChars.test(input)) {
       refine(input);

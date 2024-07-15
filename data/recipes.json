@@ -1673,7 +1673,7 @@
       {
         "title": "Sopa de Miso - Vegan",
         "ingredients": ["Noodles", "Miso", "Agua", "Alga", "Tofu", "Cebollin"],
-        "url": "https://cookpad.com/cl/recetas/22662926-queque-sin-gluten-y-sin-leche?ref=search&search_term=sin gluten",
+        "url": "https://cookpad.com/cl/recetas/23891989-sopa-de-miso-vegan",
         "type": "Almuerzo",
         "dietary_restrictions": ["Vegetariano"],
         "preparation_time": 10,
@@ -1682,14 +1682,53 @@
       },
 
       {
-        "title": "Base de canapés, sin gluten ",
+        "title": "Base de canapés, sin gluten",
         "ingredients": ["Polenta", "Agua", "Sal", "Queso", "Aceite"],
-        "url": "https://cookpad.com/cl/recetas/22662926-queque-sin-gluten-y-sin-leche?ref=search&search_term=sin gluten",
+        "url": "https://cookpad.com/cl/recetas/16710649-base-de-canapes-sin-gluten",
         "type": "Postre",
         "dietary_restrictions": ["Celiaco"],
         "preparation_time": 45,
         "servings": 4,
         "image_url": "https://img-global.cpcdn.com/recipes/c37baffb751eb550/680x482cq70/base-de-canapes-sin-gluten-foto-principal.webp"
-      }
-
+      },
+      {
+        "title": "Pollo Grillado con Verduras Asadas",
+        "ingredients": ["Pollo", "Ajo", "Aceite", "Pimentón", "Sal", "Berenjena", "Cebolla"],
+        "url": "https://www.gourmet.cl/recetas/pollo-grillado-con-verduras-asadas/",
+        "type": "Almuerzo",
+        "dietary_restrictions": ["Vegetariano"],
+        "preparation_time": 60,
+        "servings": 4,
+        "image_url": "https://www.gourmet.cl/wp-content/uploads/2012/07/pollo-grillado.jpg"
+        },
+        {
+            "title": "Ensalada Nicoise",
+            "ingredients": ["Papas", "Porotos", "Huevos", "Lechuga", "Aceitunas", "Tomate", "Atún"],
+            "url": "https://www.gourmet.cl/recetas/ensalada-nicoise/",
+            "type": "Almuerzo",
+            "dietary_restrictions": ["Vegetariano"],
+            "preparation_time": 45,
+            "servings": 2,
+            "image_url": "https://www.gourmet.cl/wp-content/uploads/2023/11/ENSALADA-NOCOISE.jpg"
+        },
+        {
+            "title": "Muffins sin gluten",
+            "ingredients": ["Harina", "Leche", "Mantequilla", "Azucar", "Sal", "Huevos", "Vainilla"],
+            "url": "https://cookpad.com/cl/recetas/16678772-muffins-sin-gluten?ref=search&search_term=para%20celiacos",
+            "type": "Postre",
+            "dietary_restrictions": ["Celiaco"],
+            "preparation_time": 90,
+            "servings": 12,
+            "image_url": "https://img-global.cpcdn.com/recipes/23d5328d3a11da97/640x640sq70/photo.webp"             
+        },
+        {
+            "title": "Croquetas de atún sin gluten",
+            "ingredients": ["Huevo", "Sal", "Atún", "Harina", "Zanahoria", "Cebolla", "Cilantro"],
+            "url": "https://cookpad.com/cl/recetas/16205702-croquetas-de-atun-sin-gluten?ref=search&search_term=para%20celiacos",
+            "type": "Almuerzo",
+            "dietary_restrictions": ["Celiaco"],
+            "preparation_time": 60,
+            "servings": 3,
+            "image_url": "https://img-global.cpcdn.com/recipes/398892e45b381ce5/640x640sq70/photo.webp"
+        }
 ]
